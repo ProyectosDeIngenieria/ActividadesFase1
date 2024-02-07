@@ -1,0 +1,305 @@
+CDT | FBI Survelliance Activity Data - TexasAPPENDIX A: TEXASNOTICE OF CAPACITY REQUIREMENTS BY COUNTY
+FORTELECOMMUNICATIONS CARRIERS PROVIDING
+LOCAL SERVICESNumbers represent historical simultaneous interceptions
+and an estimation of the simultaneous requirement of pen register,
+trap and trace, and call content interceptions that may be conducted
+anywhere within a county.*County RequirementStateCounty
+Estimated Actual Interceptions That May Be Conducted
+Estimated Maximum Interceptions That May Be Conducted
+Historical ExperienceTexasAnderson12
+169TexasAndrews2
+30TexasAngelina13
+1710TexasAransas2
+30TexasArcher2
+30TexasArmstrong
+23
+0TexasAtascosa2
+30TexasAustin2
+30TexasBailey2
+30TexasBandera2
+30TexasBastrop2
+31TexasBaylor2
+30TexasBee2
+30TexasBell9
+127TexasBexar131
+171104TexasBlanco2
+30TexasBorden2
+30TexasBosque2
+30TexasBowie22
+2917TexasBrazoria27
+3621TexasBrazos14
+1911TexasBrewster2
+31TexasBriscoe2
+30TexasBrooks2
+30TexasBrown9
+127TexasBurleson2
+30TexasBurnet2
+31TexasCaldwell3
+42TexasCalhoun2
+31TexasCallahan2
+30TexasCameron37
+4929TexasCamp2
+30TexasCarson2
+30TexasCass2
+30TexasCastro3
+42TexasChambers3
+42TexasCherokee6
+84TexasChildress
+23
+0TexasClay2
+30TexasCochran2
+30TexasCoke2
+30TexasColeman2
+30TexasCollin32
+4225TexasCollingsworth
+23
+0TexasColorado4
+63TexasComal2
+30TexasComanche2
+30TexasConcho2
+30TexasCooke12
+169TexasCoryell9
+127TexasCottle2
+30TexasCrane6
+84TexasCrockett2
+30TexasCrosby2
+30TexasCulberson
+23
+0TexasDallam2
+30TexasDallas305
+398242TexasDawson2
+30TexasDeaf Smith
+23
+0TexasDelta2
+30TexasDenton28
+3722TexasDeWitt2
+30TexasDickens2
+30TexasDimmit2
+30TexasDonley2
+30TexasDuval2
+31TexasEastland11
+158TexasEctor2
+31TexasEdwards2
+30TexasEl Paso94
+12374TexasEllis19
+2515TexasErath2
+30TexasFalls2
+30TexasFannin3
+42TexasFayette2
+30TexasFisher2
+30TexasFloyd2
+30TexasFoard2
+30TexasFort Bend
+3850
+30TexasFranklin2
+30TexasFreestone
+710
+5TexasFrio2
+30TexasGaines2
+30TexasGalveston
+2128
+16TexasGarza2
+30TexasGillespie
+23
+0TexasGlasscock
+23
+0TexasGoliad2
+30TexasGonzales2
+30TexasGray2
+30TexasGrayson7
+105TexasGregg13
+1710TexasGrimes2
+31TexasGuadalupe
+23
+0TexasHale2
+30TexasHall2
+30TexasHamilton2
+30TexasHansford2
+30TexasHardeman2
+30TexasHardin2
+30TexasHarris371
+484294TexasHarrison2
+31TexasHartley2
+30TexasHaskell2
+30TexasHays4
+63TexasHemphill2
+30TexasHenderson
+1317
+10TexasHidalgo34
+4527TexasHill2
+30TexasHockley3
+42TexasHood2
+31TexasHopkins2
+30TexasHouston2
+30TexasHoward2
+30TexasHudspeth2
+30TexasHunt7
+105TexasHutchinson
+23
+0TexasIrion2
+30TexasJack2
+30TexasJackson2
+30TexasJasper2
+31TexasJeff Davis
+23
+0TexasJefferson
+34
+2TexasJim Hogg3
+42TexasJim Wells
+811
+6TexasJohnson8
+116TexasJones2
+31TexasKarnes2
+30TexasKaufman11
+158TexasKendall2
+30TexasKenedy2
+30TexasKent2
+30TexasKerr2
+30TexasKimble2
+30TexasKing2
+30TexasKinney2
+30TexasKleberg2
+30TexasKnox2
+30TexasLa Salle2
+30TexasLamar2
+30TexasLamb2
+30TexasLampasas2
+30TexasLavaca2
+31TexasLee2
+30TexasLeon2
+30TexasLiberty8
+116TexasLimestone
+23
+0TexasLipscomb2
+30TexasLive Oak2
+30TexasLlano2
+30TexasLoving2
+30TexasLubbock21
+2816TexasLynn2
+30TexasMadison2
+30TexasMarion2
+30TexasMartin2
+30TexasMason2
+30TexasMatagorda
+23
+0TexasMaverick22
+2917TexasMcCulloch
+34
+2TexasMcLennan17
+2313TexasMcMullen2
+30TexasMedina2
+30TexasMenard2
+30TexasMidland2
+30TexasMilam2
+31TexasMills2
+30TexasMitchell2
+30TexasMontague2
+30TexasMontgomery
+3647
+28TexasMoore2
+30TexasMorris2
+30TexasMotley2
+30TexasNacogdoches
+710
+5TexasNavarro4
+63TexasNewton2
+30TexasNolan2
+30TexasNueces21
+2816TexasOchiltree
+23
+0TexasOldham2
+30TexasOrange3
+42TexasPalo Pinto
+23
+1TexasPanola3
+42TexasParker8
+116TexasParmer2
+30TexasPecos2
+31TexasPolk2
+31TexasPotter7
+105TexasPresidio4
+63TexasRains2
+30TexasRandall2
+30TexasReagan2
+30TexasReal2
+30TexasRed River
+23
+0TexasReeves2
+31TexasRefugio2
+30TexasRoberts2
+30TexasRobertson
+23
+0TexasRockwall11
+158TexasRunnels3
+42TexasRusk2
+30TexasSabine2
+30TexasSan Augustine
+23
+0TexasSan Jacinto
+23
+0TexasSan Patricio
+23
+0TexasSan Saba2
+30TexasSchleicher
+23
+0TexasScurry6
+84TexasShackelford
+23
+0TexasShelby2
+30TexasSherman2
+30TexasSmith2
+30TexasSomervell
+23
+0TexasStarr33
+4326TexasStephens2
+31TexasSterling2
+30TexasStonewall
+23
+0TexasSutton2
+31TexasSwisher2
+30TexasTarrant108
+14185TexasTaylor13
+1710TexasTerrell2
+30TexasTerry2
+30TexasThrockmorton
+23
+0TexasTitus2
+30TexasTom Green
+34
+2TexasTravis89
+11670TexasTrinity6
+84TexasTyler3
+42TexasUpshur2
+30TexasUpton2
+30TexasUvalde2
+30TexasVal Verde
+1824
+14TexasVan Zandt
+23
+0TexasVictoria7
+105TexasWalker2
+31TexasWaller2
+30TexasWard2
+31TexasWashington
+34
+2TexasWebb22
+2917TexasWharton2
+30TexasWheeler2
+30TexasWichita18
+2414TexasWilbarger
+23
+0TexasWillacy3
+42TexasWilliamson
+811TexasWilson2
+31TexasWinkler2
+30TexasWise3
+42TexasWood4
+63TexasYoakum2
+30TexasYoung2
+30TexasZapata4
+63TexasZavala2
+30* The term &quot;county&quot; includes
+boroughs and parishes as well as the District of Columbia and
+independent cities. U.S. territories (i.e., American Samoa, Guam,
+Mariana Islands, Puerto Rico, and the U.S. Virgin Islands) were
+considered as single entities.Back.CDT Digital Telephony Page.CDT Home Page.

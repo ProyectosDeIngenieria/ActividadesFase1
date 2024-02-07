@@ -1,0 +1,34 @@
+CDT | FBI Surveillance Activity Data - ArizonaAPPENDIX A: ARIZONANOTICE OF CAPACITY REQUIREMENTS BY COUNTY
+FORTELECOMMUNICATIONS CARRIERS PROVIDING
+LOCAL SERVICESNumbers represent historical simultaneous interceptions
+and an estimation of the simultaneous requirement of pen register,
+trap and trace, and call content interceptions that may be conducted
+anywhere within a county.*County RequirementStateCounty
+Estimated Actual Interceptions That May Be Conducted
+Estimated Maximum Interceptions That May Be Conducted
+Historical ExperienceArizonaApache2
+30ArizonaCochise
+3749
+29ArizonaCoconino
+68
+4ArizonaGila2
+30ArizonaGraham2
+30ArizonaGreenlee
+23
+0ArizonaLa Paz2
+30ArizonaMaricopa
+502655
+398ArizonaMohave21
+2816ArizonaNavajo2
+31ArizonaPima148
+193117ArizonaPinal14
+1911ArizonaSanta Cruz
+1419
+11ArizonaYavapai
+1723
+13ArizonaYuma41
+5432* The term &quot;county&quot; includes
+boroughs and parishes as well as the District of Columbia and
+independent cities. U.S. territories (i.e., American Samoa, Guam,
+Mariana Islands, Puerto Rico, and the U.S. Virgin Islands) were
+considered as single entities.Back.CDT Digital Telephony Page.CDT Home Page.

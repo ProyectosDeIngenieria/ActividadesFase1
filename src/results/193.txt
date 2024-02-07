@@ -1,0 +1,176 @@
+CDT | FBI Survelliance Activity Data - MinnesotaAPPENDIX A: MINNESOTANOTICE OF CAPACITY REQUIREMENTS BY COUNTY
+FORTELECOMMUNICATIONS CARRIERS PROVIDING
+LOCAL SERVICESNumbers represent historical simultaneous interceptions
+and an estimation of the simultaneous requirement of pen register,
+trap and trace, and call content interceptions that may be conducted
+anywhere within a county.*County RequirementStateCounty
+Estimated Actual Interceptions That May Be Conducted
+Estimated Maximum Interceptions That May Be Conducted
+Historical ExperienceMinnesotaAitkin
+23
+1MinnesotaAnoka
+5167
+40MinnesotaBecker
+68
+4MinnesotaBeltrami
+23
+1MinnesotaBenton
+710
+5MinnesotaBig Stone
+23
+0MinnesotaBlue Earth
+23
+1MinnesotaBrown
+23
+0MinnesotaCarlton
+34
+2MinnesotaCarver
+811
+6MinnesotaCass8
+116MinnesotaChippewa
+23
+1MinnesotaChisago
+34
+2MinnesotaClay2
+31MinnesotaClearwater
+23
+0MinnesotaCook2
+30MinnesotaCottonwood
+23
+0MinnesotaCrow Wing
+710
+5MinnesotaDakota
+6788
+53MinnesotaDodge
+23
+0MinnesotaDouglas
+46
+3MinnesotaFaribault
+23
+1MinnesotaFillmore
+23
+0MinnesotaFreeborn
+23
+0MinnesotaGoodhue
+811
+6MinnesotaGrant
+46
+3MinnesotaHennepin
+264344
+209MinnesotaHouston
+68
+4MinnesotaHubbard
+46
+3MinnesotaIsanti
+23
+0MinnesotaItasca
+23
+0MinnesotaJackson
+23
+0MinnesotaKanabec
+23
+0MinnesotaKandiyohi
+68
+4MinnesotaKittson
+1115
+8MinnesotaKoochiching
+23
+0MinnesotaLac qui Parle
+23
+0MinnesotaLake2
+30MinnesotaLake of the Woods
+23
+1MinnesotaLe Sueur
+23
+0MinnesotaLincoln
+23
+0MinnesotaLyon2
+30MinnesotaMahnomen
+23
+0MinnesotaMarshall
+912
+7MinnesotaMartin
+23
+0MinnesotaMcLeod
+1419
+11MinnesotaMeeker
+46
+3MinnesotaMille Lacs
+46
+3MinnesotaMorrison
+710
+5MinnesotaMower
+23
+1MinnesotaMurray
+23
+0MinnesotaNicollet
+710
+5MinnesotaNobles
+46
+3MinnesotaNorman
+23
+0MinnesotaOlmsted
+2229
+17MinnesotaOtter Tail
+4154
+32MinnesotaPennington
+34
+2MinnesotaPine6
+84MinnesotaPipestone
+23
+0MinnesotaPolk2
+30MinnesotaPope3
+42MinnesotaRamsey
+100131
+79MinnesotaRed Lake
+23
+0MinnesotaRedwood
+23
+1MinnesotaRenville
+23
+1MinnesotaRice9
+127MinnesotaRock3
+42MinnesotaRoseau
+912
+7MinnesotaScott
+46
+3MinnesotaSherburne
+2938
+23MinnesotaSibley
+23
+0MinnesotaSt. Louis
+5066
+39MinnesotaStearns
+2128
+16MinnesotaSteele
+68
+4MinnesotaStevens
+23
+0MinnesotaSwift
+23
+0MinnesotaTodd6
+84MinnesotaTraverse
+23
+0MinnesotaWabasha
+23
+0MinnesotaWadena
+23
+0MinnesotaWaseca
+23
+0MinnesotaWashington
+2330
+18MinnesotaWatonwan
+23
+0MinnesotaWilkin
+23
+0MinnesotaWinona
+46
+3MinnesotaWright
+68
+4MinnesotaYellow Medicine
+23
+0* The term &quot;county&quot; includes
+boroughs and parishes as well as the District of Columbia and
+independent cities. U.S. territories (i.e., American Samoa, Guam,
+Mariana Islands, Puerto Rico, and the U.S. Virgin Islands) were
+considered as single entities.Back.CDT Digital Telephony Page.CDT Home Page.

@@ -1,0 +1,213 @@
+CDT | FBI Survelliance Activity Data - North CarolinaAPPENDIX A: NORTH CAROLINANOTICE OF CAPACITY REQUIREMENTS BY COUNTY
+FORTELECOMMUNICATIONS CARRIERS PROVIDING
+LOCAL SERVICESNumbers represent historical simultaneous interceptions
+and an estimation of the simultaneous requirement of pen register,
+trap and trace, and call content interceptions that may be conducted
+anywhere within a county.*County RequirementStateCounty
+Estimated Actual Interceptions That May Be Conducted
+Estimated Maximum Interceptions That May Be Conducted
+Historical ExperienceNorth CarolinaAlamance
+46
+3North CarolinaAlexander
+23
+0North CarolinaAlleghany
+1216
+9North CarolinaAnson
+34
+2North CarolinaAshe
+23
+0North CarolinaAvery
+23
+0North CarolinaBeaufort
+23
+0North CarolinaBertie
+23
+0North CarolinaBladen
+23
+0North CarolinaBrunswick
+1115
+8North CarolinaBuncombe
+1115
+8North CarolinaBurke
+23
+1North CarolinaCabarrus
+811
+6North CarolinaCaldwell
+23
+0North CarolinaCamden
+23
+0North CarolinaCarteret
+23
+0North CarolinaCaswell
+34
+2North CarolinaCatawba
+23
+1North CarolinaChatham
+23
+0North CarolinaCherokee
+23
+0North CarolinaChowan
+23
+0North CarolinaClay
+23
+0North CarolinaCleveland
+46
+3North CarolinaColumbus
+68
+4North CarolinaCraven
+23
+0North CarolinaCumberland
+1115
+8North CarolinaCurrituck
+23
+0North CarolinaDare
+23
+1North CarolinaDavidson
+1317
+10North CarolinaDavie
+23
+0North CarolinaDuplin
+23
+0North CarolinaDurham
+68
+4North CarolinaEdgecombe
+23
+0North CarolinaForsyth
+4154
+32North CarolinaFranklin
+23
+1North CarolinaGaston
+46
+3North CarolinaGates
+23
+0North CarolinaGraham
+23
+0North CarolinaGranville
+1115
+8North CarolinaGreene
+23
+0North CarolinaGuilford
+1419
+11North CarolinaHalifax
+46
+3North CarolinaHarnett
+23
+0North CarolinaHaywood
+23
+0North CarolinaHenderson
+811
+6North CarolinaHertford
+68
+4North CarolinaHoke
+23
+0North CarolinaHyde
+23
+0North CarolinaIredell
+68
+4North CarolinaJackson
+710
+5North CarolinaJohnston
+23
+0North CarolinaJones
+23
+0North CarolinaLee
+23
+0North CarolinaLenoir
+68
+4North CarolinaLincoln
+23
+0North CarolinaMacon
+68
+4North CarolinaMadison
+23
+0North CarolinaMartin
+23
+0North CarolinaMcDowell
+23
+0North CarolinaMecklenburg
+1317
+10North CarolinaMitchell
+23
+1North CarolinaMontgomery
+46
+3North CarolinaMoore
+1115
+8North CarolinaNash
+710
+5North CarolinaNew Hanover
+34
+2North CarolinaNorthampton
+46
+3North CarolinaOnslow
+23
+1North CarolinaOrange
+23
+0North CarolinaPamlico
+23
+0North CarolinaPasquotank
+23
+0North CarolinaPender
+23
+0North CarolinaPerquimans
+23
+0North CarolinaPerson
+23
+0North CarolinaPitt
+3141
+24North CarolinaPolk
+23
+0North CarolinaRandolph
+2938
+23North CarolinaRichmond
+23
+0North CarolinaRobeson
+23
+0North CarolinaRockingham
+23
+0North CarolinaRowan
+912
+7North CarolinaRutherford
+23
+1North CarolinaSampson
+23
+0North CarolinaScotland
+23
+0North CarolinaStanly
+23
+0North CarolinaStokes
+23
+0North CarolinaSurry
+34
+2North CarolinaSwain
+23
+0North CarolinaTransylvania
+1317
+10North CarolinaTyrrell
+23
+0North CarolinaUnion
+23
+0North CarolinaVance
+34
+2North CarolinaWake
+2229
+17North CarolinaWarren
+23
+0North CarolinaWashington
+23
+0North CarolinaWatauga
+23
+0North CarolinaWayne
+23
+1North CarolinaWilkes
+23
+0North CarolinaWilson
+23
+0North CarolinaYadkin
+23
+0North CarolinaYancey
+23
+0* The term &quot;county&quot; includes
+boroughs and parishes as well as the District of Columbia and
+independent cities. U.S. territories (i.e., American Samoa, Guam,
+Mariana Islands, Puerto Rico, and the U.S. Virgin Islands) were
+considered as single entities.Back.CDT Digital Telephony Page.CDT Home Page.
