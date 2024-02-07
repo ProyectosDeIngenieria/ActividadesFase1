@@ -1,0 +1,7 @@
+# FILEPATH: /workspaces/ActividadesFase1/.gitignore
+
+# Python
+*.pyc
+__pycache__/
+venv/
+*.env
