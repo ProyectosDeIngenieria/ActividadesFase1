@@ -1,12 +1,54 @@
+
+
+
+
 WORKSPACE changes from 3.4 to 3.5 
-WORKSPACE changes from 3.4 to 3.5 Summary
-The most important new feature in 3.5 is the ability to easily offline program applications using Workspace geometry point paths. The applications include spot welding, arc welding, paint spraying, material handling, sealant, laser cutting, water jet and deburring. Once the geometry path has been created and saved with the model the user can issue a Follow GP path command to automatically create and simulate the robot programme in whatever robot language is currently selected. Tool graphics have been designed to simulate each tool action.Many new robot languages are now available as options for Workspace including:
-ABB Rapid, Yaskawa/Motoman Inform1 and Inform2, Sankyo and IBM AML2, PSI.The commands for editing GP paths have been improved, as have the commands for editing geometry points, editing several geometry points at once (multiple GPs), and editing teachpoints. The commands for editing several geometry points should save the user some time over the old GP edit methods. Many of the new commands for editing teachpoints are useful in reverse engineering and re-engineering workcells, and for last minute touch-ups of robot programs during offline programming.The user-interface and the efficiency of the robot and tool calibration have been improved, while the Robotrak setup procedures have been altered to increase their reliability even when used by inexperienced users.In general, the changes in 3.5 reflect the past few years' accumulated experience from both within RSL and close contact with industrial customers of simulating and offline programming complex workcells using Workspace and RobotrakThese features now give the customer an affordable, user friendly tool to carry out the most complex of tasks at shop floor level with confidence.New and changed commandsMODEL MENU1. Load object into model: when a model has been selected the objects displayed will be only those with no parents.
+WORKSPACE changes from 3.4 to 3.5 
+
+Summary
+The most important new feature in 3.5 is the ability to easily offline program applications using Workspace geometry point paths. The applications include spot welding, arc welding, paint spraying, material handling, sealant, laser cutting, water jet and deburring. Once the geometry path has been created and saved with the model the user can issue a Follow GP path command to automatically create and simulate the robot programme in whatever robot language is currently selected. Tool graphics have been designed to simulate each tool action.
+
+Many new robot languages are now available as options for Workspace including:
+ABB Rapid, Yaskawa/Motoman Inform1 and Inform2, Sankyo and IBM AML2, PSI.
+
+The commands for editing GP paths have been improved, as have the commands for editing geometry points, editing several geometry points at once (multiple GPs), and editing teachpoints. The commands for editing several geometry points should save the user some time over the old GP edit methods. Many of the new commands for editing teachpoints are useful in reverse engineering and re-engineering workcells, and for last minute touch-ups of robot programs during offline programming.
+
+The user-interface and the efficiency of the robot and tool calibration have been improved, while the Robotrak setup procedures have been altered to increase their reliability even when used by inexperienced users.
+
+In general, the changes in 3.5 reflect the past few years' accumulated experience from both within RSL and close contact with industrial customers of simulating and offline programming complex workcells using Workspace and Robotrak
+
+These features now give the customer an affordable, user friendly tool to carry out the most complex of tasks at shop floor level with confidence.
+
+New and changed commands
+
+MODEL MENU
+
+1. Load object into model: when a model has been selected the objects displayed will be only those with no parents.
 2. Set project directory : now sets the Ready for robot directory to projectdir/ROBOT.
-3. Make directory : copies a file to a path (which is relative to the WS3 directory).CREATE MENUCreate GPs submenu1. The Create Gps on polyline submenu now has the additional command Between two polylines which creates GPs along the current polyline in the direction of the nearest point on the other polyline. This is useful if the GPs are being defined on part whose geometry is represented by two parallel polylines.
+3. Make directory : copies a file to a path (which is relative to the WS3 directory).
+
+CREATE MENU
+
+Create GPs submenu
+
+1. The Create Gps on polyline submenu now has the additional command Between two polylines which creates GPs along the current polyline in the direction of the nearest point on the other polyline. This is useful if the GPs are being defined on part whose geometry is represented by two parallel polylines.
 2. Create Gps over entire polyline and Create Gps over entire surface boundary: the commands on these menus work in a similar way to the Create GPs on polyline and the Create Gps over surface boundary except that by default the first GP is at the beginnings of the polyline and the second GP is at the end of the polyline.
 3. Align axes with tangent: when this flag is on then when GPs are created along a polyline or a surface boundary their default position has the normal vector normal to the tangent (as was the case in Workspace 3.4), whereas when the flag is off the normal vector of the GPs is not normal to the tangent.
-4.Create exact GP  path on polyline: this is the Exact GP path command renamed.LAYOUT MENUEdit object submenu1. Information: colour, view, and non-joint axes added.Edit robot submenu1. Approach vector: moved from Options menu - now saved with the robot model. Used to decide orientation when creating GPs relative to an object feature.Edit tools submenu1. Attach tool: moves the current object so that its base frame coincides with the coordinate frame of the end link of the robot. A base frame may be defined for an object using the Add tool base frame command.
+4.Create exact GP  path on polyline: this is the Exact GP path command renamed.
+
+LAYOUT MENU
+
+Edit object submenu
+
+1. Information: colour, view, and non-joint axes added.
+
+Edit robot submenu
+
+1. Approach vector: moved from Options menu - now saved with the robot model. Used to decide orientation when creating GPs relative to an object feature.
+
+Edit tools submenu
+
+1. Attach tool: moves the current object so that its base frame coincides with the coordinate frame of the end link of the robot. A base frame may be defined for an object using the Add tool base frame command.
 2. Load and attach tool: same as attach tool except that it also loads the tool object from a model file. Loads an object and then positions the object so that its base frame coincides with the coordinate frame of the end link of the robot. A base frame may be defined for an object using the Add tool base frame command.
 The user can create models containing tools as a library for this command. To create a library of tools simply create a model containing all the tools and then save the model.
 3. Dispose of tool: allows the user to select and delete one of the objects (and its descendants) attached to the end link of the robot.
@@ -16,7 +58,19 @@ The user can create models containing tools as a library for this command. To cr
 6. Spot weld gun of interest: specify which of several spot weld guns on a robot is being referred to when setting gun parameters on this menu.
 7. Spot weld duration: set the duration of a spot weld (when the gun is closed) by the gun of interest during a simulation.
 8. Gun closed to semi-open time: set the time taken for the spot weld gun of interest to go from closed to semi-open during a simulation.
-9. Gun semi-open to open time: set the time taken for the spot weld gun of interest to go from semi-open to full open during a simulation.Edit current pointer/Edit geometry point/Edit teachpoint submenus1. Move/Turn CP/TP/GP: Several commands have been renamed so that phrase approach vector is used instead of z-axis:- Move along approach vector, Approach vector up, Approach vector down, Reverse approach vector, Approach vector away from base, Drag approach vector.Edit geometry point submenuSome options have been moved onto the Edit multiple GP submenu.Edit multiple geometry points submenuAlmost all the commands on this menu operate on a group of GPs selected using the multiple object selection side bar.
+9. Gun semi-open to open time: set the time taken for the spot weld gun of interest to go from semi-open to full open during a simulation.
+
+Edit current pointer/Edit geometry point/Edit teachpoint submenus
+
+1. Move/Turn CP/TP/GP: Several commands have been renamed so that phrase approach vector is used instead of z-axis:- Move along approach vector, Approach vector up, Approach vector down, Reverse approach vector, Approach vector away from base, Drag approach vector.
+
+Edit geometry point submenu
+
+Some options have been moved onto the Edit multiple GP submenu.
+
+Edit multiple geometry points submenu
+
+Almost all the commands on this menu operate on a group of GPs selected using the multiple object selection side bar.
 1. Create Tps from Gps submenu (contains Create TPs from multiple GPs, Create Tps from all GPs).
 2. Change Gps approach vector: changes the approach vector for the selected GPs. Options are Arla to TP (converts GPs created in the ARLA language assuming an x-axis approach vector into GPs suitable for use in the TP language where a z-axis approach vector is assumed) and TP to Arla These options may be used with other languages which have similar approach vectors to TP and Arla.
 3. Remove tool from GPs: removes the current tool frame from the GPs. This is useful if the GPs were created from teachpoints using an active tool frame but the user wishes to view the GPs as though they were representing the position of the faceplate of the robot at each teachpoint. (see also Add tool to GPs).
@@ -24,8 +78,14 @@ The user can create models containing tools as a library for this command. To cr
 5. Turn GPs about own x-axis: turn all the GPs about their own x-axis.
 6. Turn GPs about own y-axis: turn all the GPs about their own y-axis.
 7. Turn GPs about own z-axis: turn all the GPs about their own z-axis.
-8. Autoturn GPs about approach vector:attempts to find a suitable angle to turn all the GPs about their approach vector such that all the GPs become achievable by the current robot, then performs the turn.Edit teachpoint submenuSome options have been moved onto the Edit all teachpoints submenu.
-1. Autoturn TP about approach vector: allows the user to interactively turn the teachpoint about its approach vector, showing as it is turned the position of the robot with its tool moved to the teachpoint.Edit all teachpoints submenu
+8. Autoturn GPs about approach vector:attempts to find a suitable angle to turn all the GPs about their approach vector such that all the GPs become achievable by the current robot, then performs the turn.
+
+Edit teachpoint submenu
+
+Some options have been moved onto the Edit all teachpoints submenu.
+1. Autoturn TP about approach vector: allows the user to interactively turn the teachpoint about its approach vector, showing as it is turned the position of the robot with its tool moved to the teachpoint.
+
+Edit all teachpoints submenu
 1. Create Gps from all TPs: creates a geometry point for each teachpoint. If the user wishes then the GPs may also store the teachpoint configuration, or if auxiliary axes are present the GPs may store the auxiliary axes positions.
 2. Reflect all TPs using joints: reflects all the teachpoints by adjusting the joint angles. Joint angles 1, 4, and 6 are reversed for each teachpoint. The effect of this on most revolute robots is to reflect the coordinate frames of each teachpoint through a plane passing through joint 1 and its zero position. By reflecting in this way instead of reflecting the coordinate frames of the teachpoints the user ensures that the reflected teachpoints also reflect the robot configurations of the original points.
 The user is prompted for the name of the robot onto which the new teachpoint file is to be reflected.
@@ -33,7 +93,11 @@ The user is prompted for the name of the robot onto which the new teachpoint fil
 4. Turn all TPs about approach vector: turns all the teachpoints about their approach vectors.
 5. Move all TPs: moves all the teachpoints through an x,y,z offset relative to the base frame of the robot.
 6. Move all TPs using 1 point shift: moves all the teachpoints through a transform defined by the desired position and the old position of a teachpoint. The user first teaches a teachpoint on the robot to represent the desired position of a teachpoint, saves this in the same file as the old teachpoints, brings the file to Workspace, then issues the command and selects the new teachpoint and the old teachpoint.
-7. Adjust all TPs for bent tool: changes the tcp value (while adjusting the teachpoints so that the position of the faceplate of the robot at each point does not change) using a transform defined by the desired position and old position of a teachpoint. The user first teaches a teachpoint on the robot to represent the desired position of a teachpoint with the bent or changed tool, saves this in the same file as the old teachpoints, brings the file to Workspace, then issues the command and selects the new teachpoint and the old teachpoint.Edit GP path submenu1.GP path application: sets the application for which the user is using the GP path. The Edit GP path as menu will only allow the user to select Tool actions which are appropriate for the application. Possible applications are waterjet, spot welding, arc welding,  paint spraying, material handling, sealant, laser cutting, and deburring. The user may change the application at any time and then start selecting tool states for the new application.
+7. Adjust all TPs for bent tool: changes the tcp value (while adjusting the teachpoints so that the position of the faceplate of the robot at each point does not change) using a transform defined by the desired position and old position of a teachpoint. The user first teaches a teachpoint on the robot to represent the desired position of a teachpoint with the bent or changed tool, saves this in the same file as the old teachpoints, brings the file to Workspace, then issues the command and selects the new teachpoint and the old teachpoint.
+
+Edit GP path submenu
+
+1.GP path application: sets the application for which the user is using the GP path. The Edit GP path as menu will only allow the user to select Tool actions which are appropriate for the application. Possible applications are waterjet, spot welding, arc welding,  paint spraying, material handling, sealant, laser cutting, and deburring. The user may change the application at any time and then start selecting tool states for the new application.
 2. Edit current GP as menu: allows the user to change the properties of a particular node on a GP path, the node being the one containing the current GP object. Each node contains a GP object, various motion properties used to approach that GP from the previous GP node, various actions (including tool actions) which are to be implemented once the robot reaches the GP. The properties of a GP node are described in more detail below:
 GP object name - name of a geometry point object;
 Motion type - the type of motion (joint, circular, or linear);
@@ -57,13 +121,37 @@ Tool action - the tool action to be performed after the robot reaches the GP. Po
 13. Scale all speeds: scales the speeds of all the GP nodes in the current path using a scaling factor. A scaling factor of 1 indicates no change.
 14. Change all termination types: sets the termination types for all the GP nodes on the current GP path to a value entered by the user. A termination type of 0 indicates that the robot is to stop at all the points, while a termination type of 100 indicates that the robot is to move through or near all the points without stopping.
 15. Change all motion types: changes the motion type (joint, linear or circular) for all the GP nodes on the current GP path to a new setting.
-16. Remove all tool action: removes all the tool actions from a GP path (e.g. ArcOn, ArcOff).Simulate menu1. Replay  track and create geometry path: replays a track while creating a geometry path which represents the movement of the robot during the track and any tool actions during the track. This command may be used to create geometry paths from a robot program written in one robot language which is then converted using the Follow GP path  command into a robot program written in another robot language.
+16. Remove all tool action: removes all the tool actions from a GP path (e.g. ArcOn, ArcOff).
+
+Simulate menu
+
+1. Replay  track and create geometry path: replays a track while creating a geometry path which represents the movement of the robot during the track and any tool actions during the track. This command may be used to create geometry paths from a robot program written in one robot language which is then converted using the Follow GP path  command into a robot program written in another robot language.
 2. Replay track and record sweep: replays a track while creating lines to represent the sweep of the tool attached to the end of the robot as the robot moves. Enables the user to quickly see if the tool interferes with any fixtures.
 3. Send to robot and receive from robot have been implemented for a wider range of robots. Note that the Calibration filter is used only when converting between GPs and TPs (e.g. when GPs are converted to TPs during a Send to robot), or when using the Recalibrate tool or Calibrate model submenu commands. The calibration filter is not used on teachpoints which are Sent to robot or Received from robot under any other circumstances.
-4. Edit any file: allows the user to edit any text file.Options menu1. The Paintshade option has been removed. Shade should be used instead.Picture submenu1. Hiddenline mode: Full indicates that the hiddenline removal will still be rigorous even when the user zooms in or out on a workcell, whereas Clipped means that hiddenline removal is not performed for objects which are completely off the screen. Clipped may be slightly faster than Full for large and complex workcells but if Clipped is on and the user zooms out then the picture of the workcell may no longer have the outer hidden lines removed correctly.Robot options submenu1. Autoplace robot using TPs: attempts to find a suitable position to place the robot that will allow all the teachpoints to be achievable. The search is conducted in the plane parallel to the screen which passes through the current pointer. During the search a cross is drawn at each position which would be suitable for placing the robot, and at the end of the search the user has the option of placing the robot at a suitable position.
+4. Edit any file: allows the user to edit any text file.
+
+Options menu
+
+1. The Paintshade option has been removed. Shade should be used instead.
+
+Picture submenu
+
+1. Hiddenline mode: Full indicates that the hiddenline removal will still be rigorous even when the user zooms in or out on a workcell, whereas Clipped means that hiddenline removal is not performed for objects which are completely off the screen. Clipped may be slightly faster than Full for large and complex workcells but if Clipped is on and the user zooms out then the picture of the workcell may no longer have the outer hidden lines removed correctly.
+
+Robot options submenu
+
+1. Autoplace robot using TPs: attempts to find a suitable position to place the robot that will allow all the teachpoints to be achievable. The search is conducted in the plane parallel to the screen which passes through the current pointer. During the search a cross is drawn at each position which would be suitable for placing the robot, and at the end of the search the user has the option of placing the robot at a suitable position.
 2. Autoplace robot using multiple GPs: works in a similar way to the Autoplace robot using TPs command except that the search is for a position for placing the robot that will make the selected geometry points achievable.
 3. Label current robot: when this flag is on then the current robot will be labelled on the screen with its name. This is useful when working with several robots in one workcell.
-4. Robot tool path: when this flag is on then the path taken during an arc-weld or a laser cut or a water jet cut will be displayed as a series of lines.TP and GP option submenu1. Geometry path display: when this flag is on then geometry paths will be displayed as a dotted line between geometry points with arrows indicating the direction of movement along the geometry path.Calibrate robot submenuThe Calibrate robot submenus have been reorganised so that the user can follow step by step what to do next during a calibration.
+4. Robot tool path: when this flag is on then the path taken during an arc-weld or a laser cut or a water jet cut will be displayed as a series of lines.
+
+TP and GP option submenu
+
+1. Geometry path display: when this flag is on then geometry paths will be displayed as a dotted line between geometry points with arrows indicating the direction of movement along the geometry path.
+
+Calibrate robot submenu
+
+The Calibrate robot submenus have been reorganised so that the user can follow step by step what to do next during a calibration.
 After each step in the setup Workspace checks that the encoder units have returned to zero and that the repeatability has not degraded.
 1. The Robotrak setup menu has been reorganised as follows (note that some commands have been moved to the Robotrak special options submenu):
 Exact length of bar:
@@ -92,10 +180,40 @@ Record trajectory:
 Turn Robotrak display off:
 Calibrated robot:
 XYZ teachpoint filter:
-Parameters to calibrate:1. At least four teachpoints are now recommended when recalibrating a tool (instead of 3 which were recommended in 3.4).Pendant menuJoint zero: sets all the joints of the current robot or mechanism to their zero position.Other Changes1. The cycles times obtained with Fanuc robots are now more accurate than before since they use the same trajectory generation algorithms that are used on Fanuc controllers. The accuracy of the cycle times for other robot languages should also be improved.
+Parameters to calibrate:
+
+1. At least four teachpoints are now recommended when recalibrating a tool (instead of 3 which were recommended in 3.4).
+
+Pendant menu
+
+Joint zero: sets all the joints of the current robot or mechanism to their zero position.
+
+Other Changes
+
+1. The cycles times obtained with Fanuc robots are now more accurate than before since they use the same trajectory generation algorithms that are used on Fanuc controllers. The accuracy of the cycle times for other robot languages should also be improved.
 2. The tool actions described under Geometry Paths are also available from the action menu.
 3. The Workspace signaldef input directive can now take just a robotname as a parameter (though the old signaldef command which took the parameters trackname and external track signal number is still valid). The Workspace signaldef output directive is no longer required, but would still be valid is used.
 4. The multiple object selection sidebar which is used with many commands contains a new option: Path. When this is selected then the user chooses a name of a geometry point path and all the geometry points on that path are selected.
 5. The Weldpos and Deburrpos functions are now available for use in a Joint expression. They work in a similar way to the Grippos function. The Weldpos varies from 0 to 100 as a spot weld gun goes from full-open to closed, while the deburr function varies 0 to 360 and then returns to zero and repeats all the time that deburring is on.
-6. Macros may now be created using the programme structure and variables of the Karel2 language. Create a macro by starting a track and then issuing commands from several other menus. As each command is issued it is stored in the track, and if the track is replayed then the commands are executed from the track. Not all the commands on the menus are available for use in Macros at present.[ Return to Home Page ] Workspace and Robotrak are registered trademarks of Robot Simulations Ltd.Copyright &copy; 1996 Robot Simulations Ltd
+6. Macros may now be created using the programme structure and variables of the Karel2 language. Create a macro by starting a track and then issuing commands from several other menus. As each command is issued it is stored in the track, and if the track is replayed then the commands are executed from the track. Not all the commands on the menus are available for use in Macros at present.
+
+
+
+
+[ Return to Home Page ] 
+
+
+
+
+Workspace and Robotrak are registered trademarks of Robot Simulations Ltd.
+
+Copyright &copy; 1996 Robot Simulations Ltd
 Last revision 3 April 1996
+
+
+
+
+
+
+
+

@@ -1,5 +1,7 @@
 
-Another test file   This file has some text in it.Sentences designed to test for tricky punctuation.
+Another test file
+
+   This file has some text in it.Sentences designed to test for tricky punctuation.
    sgauch@uark.edu
    123-456-7890
    
@@ -20,3 +22,5 @@ Another test file   This file has some text in it.Sentences designed to test for
    
    1,500,472 people live in Cincinnati (maybe).
    H20 is a chemical compound.
+
+

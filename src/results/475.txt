@@ -1,10 +1,23 @@
-Industrializaci&oacute;n y Transporte&#160;
-&#160;     
+
+
+
+
+Industrializaci&oacute;n y Transporte
+
+
+
+
+&#160;
+&#160; 
+
+    
         
         Se esta invirtiendo capital en la
         Refineria Lujan de Cuyo, Mendoza, para producir productos
         de mayor calidad.
-    En 1993 YPF lanz&oacute; un
+    
+
+En 1993 YPF lanz&oacute; un
 programa a largo plazo para aumentar la rentabilidad mediante una
 mejora de la calidad de sus productos refinados, la
 disminuci&oacute;n de los costos operativos y el fortalecimiento
@@ -13,7 +26,9 @@ resultantes de estas medidas contribuyeron a las significativas
 mejoras operativas registradas en 1995 y, las actividades
 emprendidas por YPF durante este a&ntilde;o deber&iacute;an
 ejercer un impacto semejante en 1996 y a&ntilde;os subsiguientes.
-En 1995, la empresa:    
+En 1995, la empresa:
+
+    
         Disminuy&oacute;
         significativamente los costos de procesamiento en la
         refiner&iacute;a de La Plata; 
@@ -44,7 +59,9 @@ En 1995, la empresa:
         Complet&oacute;
         importantes proyectos relacionados con el impacto
         ambiental; 
-    En la refiner&iacute;a de La Plata
+    
+
+En la refiner&iacute;a de La Plata
 se modernizaron las instalaciones para producir naftas de
 octanajes m&aacute;s elevados. Las naftas de YPF se procesan y
 venden sin plomo. Un convenio de asistencia t&eacute;cnica con
@@ -62,7 +79,9 @@ terminaci&oacute;n de dos nuevas unidades de procesamiento. En el
 primer semestre del a&ntilde;o, se pondr&aacute; en
 funcionamiento la unidad de hidrotratamiento de naftas y,
 posteriormente, la unidad de isomerizaci&oacute;n. Tambi&eacute;n
-a fines de 1996 comenzar&aacute; a funcionar una unidad TAME.En febrero de 1995 comenz&oacute;
+a fines de 1996 comenzar&aacute; a funcionar una unidad TAME.
+
+En febrero de 1995 comenz&oacute;
 a funcionar una planta de MTBE (metil-terbutil &eacute;ter) en la
 Refiner&iacute;a de Luj&aacute;n de Cuyo, Mendoza. Con ella se
 pudo incrementar la producci&oacute;n de nafta sin plomo y el
@@ -81,3 +100,6 @@ motonaftas. Adem&aacute;s, el gas oil producido por YPF
 cumplir&aacute; con las especificaciones de calidad exigidas por
 todos los mercados de Am&eacute;rica Latina.
  
+
+
+

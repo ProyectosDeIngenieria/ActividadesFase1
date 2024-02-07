@@ -1,5 +1,7 @@
 SRL-1 - Raco, Michigan
-Raco, MichiganThis image is a false-color composite of Raco, Michigan, centered
+Raco, Michigan
+
+This image is a false-color composite of Raco, Michigan, centered
 at 46.39 degrees north latitude, 84.88 degrees west longitude.
 This image was acquired by the Spaceborne Imaging Radar-C and X-
 Band Synthetic Aperture Radar (SIR-C/X-SAR) aboard the space
@@ -35,6 +37,16 @@ that, surrounding McNearny and Johnson lakes is a dark purple
 area containing north hardwoods.  Accurate information about
 land-cover is important to area resource managers and for use in
 regional- to global-scale scientific models used understand
-global change.P-43882
-April 10, 1994     Imaging Radar Home PageUpdated 03/30/95
+global change.
+
+P-43882
+April 10, 1994
+
+
+
+
+     Imaging Radar Home Page
+
+
+Updated 03/30/95
 bruce.chapman@jpl.nasa.gov

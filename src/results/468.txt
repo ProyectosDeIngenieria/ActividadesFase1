@@ -1,4 +1,15 @@
-Operaciones de Gas Natural&#160;El precio del gas natural en 1995 se increment&oacute; un 7%,
+
+
+
+
+Operaciones de Gas Natural
+
+
+
+
+&#160;
+
+El precio del gas natural en 1995 se increment&oacute; un 7%,
 llegando a U$S1,19 por mill&oacute;n de BTU, siguiendo una
 consistente tendencia alcista. El volumen de ventas que
 promedi&oacute; 1.491 millones de pies c&uacute;bicos/d&iacute;a,
@@ -18,7 +29,9 @@ capacidad de transporte (aproximadamente 500 millones de pies
 c&uacute;bicos por d&iacute;a -mmcfd-), incorporada en los dos
 &uacute;ltimos a&ntilde;os por las compa&ntilde;&iacute;as
 transportadoras de gas natural.
-&#160;A nivel local el mercado de m&aacute;s
+&#160;
+
+A nivel local el mercado de m&aacute;s
 r&aacute;pido crecimiento para el gas natural fue el de la
 generaci&oacute;n de energ&iacute;a el&eacute;ctrica. YPF
 formaliz&oacute; contratos significativos para suministrar gas
@@ -32,7 +45,9 @@ Central Neuquen. En 1995, se realizaron dos acuerdos adicionales,
 que incrementar&aacute;n las entregas de gas natural, en
 aproximadamente 75 millones de pies c&uacute;bicos diarios, a
 partir de 1996.
-&#160;Los mercados de exportaci&oacute;n tambi&eacute;n representan
+&#160;
+
+Los mercados de exportaci&oacute;n tambi&eacute;n representan
 una excelente oportunidad para el crecimiento de las ventas de
 gas natural. El primer contrato de exportaci&oacute;n se
 firm&oacute; en 1995 con Methanex, empresa propietaria de una
@@ -66,7 +81,9 @@ el proyecto. Los niveles gerenciales de YPF consideran que
 har&iacute;an falta reservas de aproximadamente 12 millones de
 millones de pies c&uacute;bicos de gas natural para justificar
 este gasoducto. En este sentido, se espera que la
-evaluaci&oacute;n de la Cuenca del Noroeste secomplete en 1997, ya que, en 1995, se
+evaluaci&oacute;n de la Cuenca del Noroeste se
+
+complete en 1997, ya que, en 1995, se
 logr&oacute; un importante descubrimiento de gas en el yacimiento
 Aguarag&uuml;e. Como resultado de este descubrimiento cobraron un
 nuevo impulso las perspectivas exploratorias y gas&iacute;feras
@@ -76,13 +93,17 @@ yacimiento Acambuco, cercano a Aguarag&uuml;e, YPF est&aacute;
 terminando otro importante pozo exploratorio profundo, en San
 Pedrito x-1. En la misma &aacute;rea se est&aacute;n perforando
 otros dos pozos exploratorios, el Chango Norte y el Porcelana.
-&#160;YPF est&aacute; evaluando la factibilidad de
+&#160;
+
+YPF est&aacute; evaluando la factibilidad de
 construir instalaciones para almacenar gas natural durante los
 per&iacute;odos de baja demanda, (especialmente en verano) y
 aumentar los vol&uacute;menes de gas disponibles durante los
 meses de invierno, cuando se incrementan tanto la demanda como
 los precios. En 1995, YPF inici&oacute; dos proyectos pilotos de
-almacenamiento en peque&ntilde;a escala.    
+almacenamiento en peque&ntilde;a escala.
+
+    
         
          
         
@@ -90,3 +111,8 @@ almacenamiento en peque&ntilde;a escala.
         Buta Ranquil, en Neuquen, confirma la presencia de
         reservas adicionales de gas y petroleo.
     
+
+
+
+
+

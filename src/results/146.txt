@@ -1,8 +1,19 @@
-LEFM NewsletterThis Issue:Version 2.1 of LEFM Released
+
+
+
+LEFM Newsletter
+
+
+
+This Issue:
+
+Version 2.1 of LEFM Released
 LEFM Annual Conference 6/7 June
 Developments of Enhanced LEFM Software
 Description of LEFM
-LEFM Contact Names and AddressesThis is the first of a regular biannual series of Newsletters for LEFM
+LEFM Contact Names and Addresses
+
+This is the first of a regular biannual series of Newsletters for LEFM
 users.  Its aim is to keep users abreast of current issues, providing support
 for their work and updating them on developments in the LEFM software.  The
 editors would be pleased to receive comments on this first issue and suggestions
@@ -26,7 +37,9 @@ problems were initially evident in the data released by NOMIS with some
 inconsistencies in the areas and these data were withdrawn and re-released. 
 Also the 1991 dual-classified data essential for understanding the effect of the
 changes at local level have only just been released, and very interesting they
-are too....Users of these data will know that the SIC92 revision has required a major
+are too....
+
+Users of these data will know that the SIC92 revision has required a major
 reclassification of employment by the Office of National Statistics (ONS has
 been formed from the merger of OPCS and CSO), with overnight some 10% of UK
 manufacturing employment being reclassified into business services.  Local
@@ -90,7 +103,9 @@ the beautiful environment of the grounds, especially useful for laptop users.
 Developments of Enhanced LEFM Software
 EVALEFM - a local-economy-forecasting-impact-evaluation model, with
 enhanced facilities for evaluating the impact of European investment spending,
-has been developed and implemented for Merseyside and Strathclyde local areasEULEFM - a local economy forecasting model for Europe is under
+has been developed and implemented for Merseyside and Strathclyde local areas
+
+EULEFM - a local economy forecasting model for Europe is under
 development.  A German language version of LEFM has been developed for use in
 the new L&auml;nder of Germany in cooperation with Ecometrika GMbH in Berlin. 
 This is designed to work with the E3ME model developed by a team led by
@@ -209,33 +224,94 @@ addressing issues that link development and policy.  The essential purpose of
 the model is to provide a forward- looking framework to inform analysts and
 decision-makers at the local level about the key economic features of their
 locality, including the main behavioural and technical links between the economy
-and the labour market.TABLE 1:  THE CURRENT VERSION OF THE LEFM MODELLEFM 2.1Industrial Classification SIC92	Industries
-49	of which services
-19	Occupations
-22	Price base
-1990	Estimation period
-1981-1993	Solution period:
-1994-2010	Base input-output tables
-1990Table 1 summarises the main features of LEFM.  It is a detailed model of
+and the labour market.
+
+
+
+TABLE 1:  THE CURRENT VERSION OF THE LEFM MODEL
+
+
+LEFM 2.1
+
+
+
+Industrial Classification SIC92
+
+
+
+	Industries
+49
+
+	of which services
+19
+
+	Occupations
+22
+
+	Price base
+1990
+
+	Estimation period
+1981-1993
+
+	Solution period:
+1994-2010
+
+	Base input-output tables
+1990
+
+
+Table 1 summarises the main features of LEFM.  It is a detailed model of
 sectors and occupations at the local level.  The model is constructed, estimated
 and solved on a personal computer.  The model is based on a sophisticated
 analysis of local data with a user-friendly `front-end' to the model.
-In summary LEFM provides: a complete economic information system at the local level, covering output,
+In summary LEFM provides: 
+
+a complete economic information system at the local level, covering output,
 employment and occupations by detailed sectors
 a full data bank including both historical and forecast data for the local
-area as well as the broader regional and national picturesa complete trade model with detailed linkages within and to the external
+area as well as the broader regional and national pictures
+
+a complete trade model with detailed linkages within and to the external
 economy  
 the capability to deal explicitly with labour supply, population and the
 economy in one modelling framework
 the capability of providing short- and long-term economic and industrial
-forecasts and scenario variants for business and governmentthe capability of analysing long-term structural change in demand and
-supply in the local economythe capability of incorporating the insights on research and development,
+forecasts and scenario variants for business and government
+
+the capability of analysing long-term structural change in demand and
+supply in the local economy
+
+the capability of incorporating the insights on research and development,
 technological innovation and occupational change from the associated national
-and regional models and forecastsLEFM Contact Names and Addresses
+and regional models and forecasts
+
+
+
+LEFM Contact Names and Addresses
 Saxon Brettell, Anthony Barker, Cambridge Econometrics
-Covent Garden, Cambridge, CB1 2HS, United KingdomTel: 01223 460760
-Fax: 01223 464378E-Mail Via InternetE-Mail Via CompuserveDr Rob Wilson, Barbara Wilson, Institute for Employment Research, University
+Covent Garden, Cambridge, CB1 2HS, United Kingdom
+
+Tel: 01223 460760
+Fax: 01223 464378
+
+
+E-Mail Via Internet
+
+E-Mail Via Compuserve
+
+
+Dr Rob Wilson, Barbara Wilson, Institute for Employment Research, University
 of Warwick
-Coventry, CV4 7AL, United KingdomTel: 01202 523530
-Fax: 01203 524241E-Mail Via Internet  
-E-Mail Via CompuserveReturn To CE Homepage
+Coventry, CV4 7AL, United Kingdom
+
+Tel: 01202 523530
+Fax: 01203 524241
+
+
+E-Mail Via Internet  
+E-Mail Via Compuserve
+
+
+
+Return To CE Homepage

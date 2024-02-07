@@ -1,11 +1,60 @@
-/data/webdev/libiss/te48.html Sample IssueCopyright 
+
+
+/data/webdev/libiss/te48.html Sample Issue
+
+
+
+
+Copyright 
 WIRELESS BUSINESS & FINANCE via NewsNet 
 January 3, 1996
-SAMPLE ISSUE HEADLINESSTOCKS:  DESPITE DECEMBER's DOWNDRAFT, IT WAS A VERY GOOD YEAR&nbsp&nbsp&nbsp(145 words)AUSTRIAN GSM LICENSE AWARDED FOR $400 MILLION&nbsp&nbsp&nbsp(93 words)SPECIAL REPORT:WB&F'S SURVEY OF THE YEAR AHEAD IN WIRELESSLATE-1995 SIGNPOSTS POINT WAY TOWARD INDUSTRY TRENDS OF 1996&nbsp&nbsp&nbsp(2086 words)FINANCIALINTERCEL PREPARES TO LAUNCH OFFERINGS OF STOCK, NOTES&nbsp&nbsp&nbsp(176 words)
-CELLULAR OPERATOR CLOSES TWO-TRACK DEBT FINANCING&nbsp&nbsp&nbsp(226 words)TECHNOLOGYLACK OF HANDSETS SEEN IMPEDING DUAL-BAND GSM SERVICES  &nbsp&nbsp&nbsp(545 words)
-GLENAYRE, NEXUS TEAM UP TO SUPPORT SPREAD-SPECTRUM TECHNOLOGY&nbsp&nbsp&nbsp(288 words)TELECOM STOCK RECAPDICHOTOMY IN TELECOM STOCKS AS MARKET CLOSES OUT 1995&nbsp&nbsp&nbsp(972 words)FCCMULTIPLE SPECTRUM AUCTIONS, AND MORE ON THE WAY&nbsp&nbsp&nbsp(292 words)Copyright
+SAMPLE ISSUE HEADLINES
+
+
+STOCKS:  DESPITE DECEMBER's DOWNDRAFT, IT WAS A VERY GOOD YEAR&nbsp&nbsp&nbsp(145 words)
+
+
+
+AUSTRIAN GSM LICENSE AWARDED FOR $400 MILLION&nbsp&nbsp&nbsp(93 words)
+
+
+SPECIAL REPORT:WB&F'S SURVEY OF THE YEAR AHEAD IN WIRELESS
+
+LATE-1995 SIGNPOSTS POINT WAY TOWARD INDUSTRY TRENDS OF 1996&nbsp&nbsp&nbsp(2086 words)
+
+
+FINANCIAL
+
+INTERCEL PREPARES TO LAUNCH OFFERINGS OF STOCK, NOTES&nbsp&nbsp&nbsp(176 words)
+CELLULAR OPERATOR CLOSES TWO-TRACK DEBT FINANCING&nbsp&nbsp&nbsp(226 words)
+
+
+TECHNOLOGY
+
+LACK OF HANDSETS SEEN IMPEDING DUAL-BAND GSM SERVICES  &nbsp&nbsp&nbsp(545 words)
+GLENAYRE, NEXUS TEAM UP TO SUPPORT SPREAD-SPECTRUM TECHNOLOGY&nbsp&nbsp&nbsp(288 words)
+
+
+TELECOM STOCK RECAP
+
+DICHOTOMY IN TELECOM STOCKS AS MARKET CLOSES OUT 1995&nbsp&nbsp&nbsp(972 words)
+
+
+FCC
+
+MULTIPLE SPECTRUM AUCTIONS, AND MORE ON THE WAY&nbsp&nbsp&nbsp(292 words)
+
+
+
+
+
+Copyright
 WIRELESS BUSINESS & FINANCE via NewsNet
-January 3, 1996STOCKS:  DESPITE DECEMBER's DOWNDRAFT, IT WAS A VERY GOOD YEAR     A tumultuous year but one that, in the end, proved highly
+January 3, 1996
+
+STOCKS:  DESPITE DECEMBER's DOWNDRAFT, IT WAS A VERY GOOD YEAR
+
+     A tumultuous year but one that, in the end, proved highly
 rewarding from a financial standpoint --that is how many who follow
 the wireless industry from Wall Street doubtless will remember 1995.  
      For the 12 months through Dec. 29, the North American
@@ -16,17 +65,37 @@ Jan. 4, 1995)--increased 30.4 percent. Much of this gain came in the
 second half of 1995.     Not all telecom indices followed this
 pattern, however.  The 20-stock Chicago Board Options Ex-change Global
 Telecommunications Index, up 22.5 percent on the year, was flat since
-mid-July.NORTH AMERICAN TELECOMMUNICATIONS INDEX
+mid-July.
+
+
+
+NORTH AMERICAN TELECOMMUNICATIONS INDEX
 ***************************************                  
-12/29/95 Close:  392.17Twelve-Month Range
+12/29/95 Close:  392.17
+
+Twelve-Month Range
 High         Low
-392.17      295.62Percentage Changes
+392.17      295.62
+
+Percentage Changes
 One Month:     3.7%
 Three Months:  8.5%
 Six Months:   22.4%
-*******************Back to Headline ListCopyright
+*******************
+
+
+
+
+
+Back to Headline List
+
+Copyright
 WIRELESS BUSINESS & FINANCE via NewsNet
-January 3, 1996AUSTRIAN GSM LICENSE AWARDED FOR $400 MILLION     Bowing to bidders' demands that a winner be named by year's end,
+January 3, 1996
+
+AUSTRIAN GSM LICENSE AWARDED FOR $400 MILLION
+
+     Bowing to bidders' demands that a winner be named by year's end,
 Austria's top telecom regulator announced Dec. 29 that a German-led
 group will be licensed to operate the nation's first private cellular
 system.  O-Call, led by Deutsche Telekom and Siemens AG with financial
@@ -34,11 +103,24 @@ backing from Austrian interests, is to begin service of the global
 system for mobile communications (GSM) network in about six months. 
 Austria's PTT, building out its own GSM service, is expected to pay
 the same amount--$400 million--that Transportation Commissioner Viktor
-Klima said O-Call offered for the 15-year license.Back to Headline ListCopyright
+Klima said O-Call offered for the 15-year license.
+
+
+
+
+Back to Headline List
+
+Copyright
 WIRELESS BUSINESS & FINANCE via NewsNet
-January 3, 1996LATE-1995 SIGNPOSTS POINT WAY TOWARD INDUSTRY TRENDS OF 1996Executive Summary:  From interviews with industry leaders and analysis
+January 3, 1996
+
+LATE-1995 SIGNPOSTS POINT WAY TOWARD INDUSTRY TRENDS OF 1996
+
+Executive Summary:  From interviews with industry leaders and analysis
 of recent events, it is possible to connect some of the dots and make
-educated guesses about what 1996 holds in store for wireless.     The way Larry Vanston sees it, the year ahead "will be a lot like
+educated guesses about what 1996 holds in store for wireless.
+
+     The way Larry Vanston sees it, the year ahead "will be a lot like
 '95" in the world of wireless telecommunications.  This is to say that
 1996 will be another year of record-setting growth, heightened
 competition and rapid techno-logical change for the industry,
@@ -72,7 +154,11 @@ sustained forever at such an ex-plosive rate, and cellular's long-term
 growth pattern seems firmly intact. 
      By the end of 1996, it is conceivable that there will be 40
 million cellu-lar subscribers in the United States--a gain of 10
-million in a 15-month span.  ...All Eyes Turn to PCS     Big changes are destined to sweep the U.S. wireless market this
+million in a 15-month span.
+
+  ...All Eyes Turn to PCS
+
+     Big changes are destined to sweep the U.S. wireless market this
 year, as the industry comes to grips with the probable enactment of
 legislation aimed at deregulating telecommunications.  This would give
 network operators "the statu-tory certainty they need to move forward
@@ -111,8 +197,12 @@ successfully competitors narrow the lead that Mobile Telecommunication
 Technologies Corp. (Mtel) enjoys in this market.  For its part, Mtel
 continues to grapple with what Alex. Brown & Sons Inc. recently called
 "rollout concerns" surrounding the company's SkyTel 2-Way advanced
-messaging service.    ...Competition, Consolidation and Convergence:  More of the Same,
-Only More So     Perhaps the most important issue before the wireless industry is
+messaging service.  
+
+  ...Competition, Consolidation and Convergence:  More of the Same,
+Only More So
+
+     Perhaps the most important issue before the wireless industry is
 how to compete effectively on a landscape that seemingly keeps
 shifting beneath its feet.  For many wireless players, achieving
 "scale" is the way to maximize their competitive ability.  
@@ -134,7 +224,9 @@ financial circles are abuzz that Hutchison Wampoa of Hong Kong will
 float Orange, its U.K. personal communications network (PCN)--possibly
 as part of a larger realignment of its telecom interests.
      And the cast of characters getting into wireless seems likely to
-keep on growing.  Two recent examples:      *  A unit of International Family Entertainment Inc., whose
+keep on growing.  Two recent examples: 
+
+     *  A unit of International Family Entertainment Inc., whose
 chairman is evangelist Pat Robertson, bought out the majority interest
 held by Motorola Inc. in Pakistan Mobile Communications Ltd., licensed
 to offer nationwide cellular service based on the global system for
@@ -160,7 +252,11 @@ planned service offerings for the local and long-distance telephone
 markets, appears to be seeking as many distribution sources as
 possible.  STV also signed an agree-ment covering various text-
 messaging services with National Dispatch Center Inc., a San Diego-
-based data network operator, last month.   ...Technology:  It's Show Time for CDMA, iDEN     Technology, like competition, is a powerful catalyst for
+based data network operator, last month. 
+
+  ...Technology:  It's Show Time for CDMA, iDEN
+
+     Technology, like competition, is a powerful catalyst for
 convergence.  The wireless industry should look during 1996 for more
 developments along the lines of these recent announcements:
      *  Putting aside their intense rivalry, Motorola granted L.M.
@@ -213,7 +309,11 @@ filters that use high-temperature superconducting materials are bound
 to make news.  Illinois Superconductor Corp. is proceeding with
 operational field trials, while Superconductor Technologies Inc.
 announced the delivery of its second receiver filter subsystem for GSM
-base stations last week.  ...International:  Asia, Brazil Seen as Where the Action Will Be     According to the Commerce Department's Office of
+base stations last week.
+
+  ...International:  Asia, Brazil Seen as Where the Action Will Be
+
+     According to the Commerce Department's Office of
 Telecommunications, Brazil and India (WB&F, Dec. 6, 1995) will merit
 close scrutiny from the wireless industry this year as emerging
 markets with the greatest untapped potential.
@@ -254,9 +354,19 @@ Tel.: 46-8-719-00-00; Northern Telecom, Tel.: 214/684-1000; Qualcomm,
 Tel.: 619/587-1121; AT&T Bell Labs, Tel.: 708/979-2000; Sprint
 Telecommunications Venture, Tel.: 913/624-3000; Nextel, Tel.: 201/438-
 1400; AirTouch, Tel.: 510/210-3000; Alex. Brown, Tel.: 410/727-1700;
-Lehman Brothers Asia, Tel.: 852-2-869-3188. Back to Headline ListCopyright
+Lehman Brothers Asia, Tel.: 852-2-869-3188. 
+
+
+
+Back to Headline List
+
+Copyright
 WIRELESS BUSINESS & FINANCE via NewsNet
-January 3, 1996INTERCEL PREPARES TO LAUNCH OFFERINGS OF STOCK, NOTES     InterCel Inc. anticipates spending $110 million this year to
+January 3, 1996
+
+INTERCEL PREPARES TO LAUNCH OFFERINGS OF STOCK, NOTES
+
+     InterCel Inc. anticipates spending $110 million this year to
 build out personal communication service (PCS) networks in major
 trading areas for which Powertel PCS Partners L.P. won licenses last
 year, followed by an ad-ditional commitment of $150 million to be
@@ -276,9 +386,19 @@ InterCel also is negotiating a $20 million revolving credit facility.
 operating income," InterCel warned in the annual report that
 management expects "signifi-cant operating losses beginning in 1996,"
 reflecting the impact of PCS buildout and marketing costs.
-(InterCel, Tel.: 706/645-9520.)Back to Headline ListCopyright
+(InterCel, Tel.: 706/645-9520.)
+
+
+
+Back to Headline List
+
+Copyright
 WIRELESS BUSINESS & FINANCE via NewsNet
-January 3, 1996CELLULAR OPERATOR CLOSES TWO-TRACK DEBT FINANCING     Colombia's Communicacion Celular SA (Comcel) received net
+January 3, 1996
+
+CELLULAR OPERATOR CLOSES TWO-TRACK DEBT FINANCING
+
+     Colombia's Communicacion Celular SA (Comcel) received net
 proceeds of $145.5 million from a recently completed debt financing,
 the company's first.
      The funds will be used to expand the company's network coverage
@@ -304,9 +424,19 @@ owns 51 percent of Comcel.  The rest is owned by Colombia's principal
 telecom companies, wireline operator Empresa de Telecomunicaciones de
 Santafe de Bogota and long-distance carrier Empresa Nacional de
 Telecomunicaciones.
-     (Bell Canada International, Tel.: 514/870-1511.)  Back to Headline ListCopyright
+     (Bell Canada International, Tel.: 514/870-1511.)  
+
+
+
+Back to Headline List
+
+Copyright
 WIRELESS BUSINESS & FINANCE via NewsNet
-January 3, 1996LACK OF HANDSETS SEEN IMPEDING DUAL-BAND GSM SERVICES       Cellular operators that employ global system for mobile
+January 3, 1996
+
+LACK OF HANDSETS SEEN IMPEDING DUAL-BAND GSM SERVICES  
+
+     Cellular operators that employ global system for mobile
 communications (GSM) technology in their networks should think long
 and hard about pairing their services with GSM's higher-frequency
 counterparts, DCS-1800 and PCS-1900.
@@ -340,8 +470,12 @@ the biggest GSM cellular network in Sweden, for the delivery of base
 station subsystems that can be used either for a stand-alone DCS-1800
 network or a seamless dual-band service.  The base stations are
 designed to bolster capacity in areas with heavy calling traffic as
-well as to improve indoor coverage.    ...Savings on Fixed and Operating Costs, More Flexibility in Setting
-Rates     Nokia's other recent GSM/DCS-1800 infrastructure deals were with
+well as to improve indoor coverage.  
+
+  ...Savings on Fixed and Operating Costs, More Flexibility in Setting
+Rates
+
+     Nokia's other recent GSM/DCS-1800 infrastructure deals were with
 NordicTel Holdings of Sweden and Sonofon of Denmark.  It also was the
 vendor for Swiss Telecom's DCS-1800 system.
      For Swiss Telecom--scheduled to face competition in PCN beginning
@@ -364,9 +498,19 @@ require a more robust roaming capability.
      All Stadelmann could do last month was ask rhetorically:  "What
 are the manufacturers ... doing?"  He would like to see action sooner
 rather than later.
-(Swiss Telecom, Tel.: 41-31-62-76-93.)Back to Headline ListCopyright
+(Swiss Telecom, Tel.: 41-31-62-76-93.)
+
+
+
+Back to Headline List
+
+Copyright
 WIRELESS BUSINESS & FINANCE via NewsNet
-January 3, 1996GLENAYRE, NEXUS TEAM UP TO SUPPORT SPREAD-SPECTRUM TECHNOLOGY     Glenayre Technologies Inc. is considering plans to manufacture
+January 3, 1996
+
+GLENAYRE, NEXUS TEAM UP TO SUPPORT SPREAD-SPECTRUM TECHNOLOGY
+
+     Glenayre Technologies Inc. is considering plans to manufacture
 re-ceivers incorporating technology developed by Nexus
 Telecommunication Systems Ltd., which plans to market the technology
 to paging operators aiming to address the "low end" of the two-way
@@ -383,7 +527,11 @@ existing one-way paging systems.
 holds an option to buy them from Nexus as an original equipment
 manufacturer.  In return, Nexus granted the Charlotte, N.C.-based
 company the right to obtain a worldwide license on its return-channel
-technology.  ...U.S. Beta Test Draws Near      Essentially, the spread-spectrum Nexus technology (WB&F, Nov. 9,
+technology.
+
+  ...U.S. Beta Test Draws Near 
+
+     Essentially, the spread-spectrum Nexus technology (WB&F, Nov. 9,
 1994) af-fords one-way paging carriers a low-speed return channel. 
 Nexus Network uses the unlicensed 902-928 MHz band for the return
 channel, which operates at 200 bits per second--far slower than ReFlex
@@ -402,18 +550,36 @@ licenses.
      Samsung, the South Korean conglomerate, is expected to begin
 shipping
 two-way paging units supporting Nexus Network by next summer.
-     (Nexus, Tel.: 972-3-571-0226; Glenayre, Tel.: 704/522-0483.) Back to Headline ListCopyright
+     (Nexus, Tel.: 972-3-571-0226; Glenayre, Tel.: 704/522-0483.) 
+
+
+
+Back to Headline List
+
+Copyright
 WIRELESS BUSINESS & FINANCE via NewsNet
-January 3, 1996DICHOTOMY IN TELECOM STOCKS AS MARKET CLOSES OUT 1995     Optimism over U.S. telecom deregulation helped provide ballast
+January 3, 1996
+
+DICHOTOMY IN TELECOM STOCKS AS MARKET CLOSES OUT 1995
+
+     Optimism over U.S. telecom deregulation helped provide ballast
 for the stocks of some network operators, but many equipment-related
 equities are still being held in check by uncertainty over profits.
   ... Glenayre gave shareholders a Christmas present in the form of a 3-
 for-2 stock split--the equipment manufacturer's second such
-distribution in six months.     
+distribution in six months.
+
+     
 WIRELESS INDUSTRY STOCK PRICE PERFORMANCE                             
-December 29, 1995Company Name/Ticker Symbol    
+December 29, 1995
+
+Company Name/Ticker Symbol    
 12/29     1 Week    1 Mo      3 Mos
-Price     Chg       Chg       Chg  EQUIPMENT/RELATED SERVICESAllen Group (ALN)   
+Price     Chg       Chg       Chg  
+
+EQUIPMENT/RELATED SERVICES
+
+Allen Group (ALN)   
 $22.38  -0.6%      -16.4%    -31.3%
 Andrew (ANDW)         
 38.25     -3.8      -10.5     -37.4
@@ -466,7 +632,12 @@ Telular (WRLS)
 Telxon (TLXN)  
 22.63     -4.0      -3.7       -5.2
 Trimble Navigation (TRMB)     
-18.63     -2.6     -17.7      -26.2RHCs/INDEPENDENTSAmeritech (AIT)     
+18.63     -2.6     -17.7      -26.2
+
+
+RHCs/INDEPENDENTS
+
+Ameritech (AIT)     
 $58.88     1.3%     5.6%      12.9%
 Alltel (AT)    
 29.50      2.6      0.0       -1.3
@@ -501,7 +672,11 @@ U S Media Group (UMG)
 WinStar Communications (WCII) 
 17.13      0.7     18.1      -14.4
 WorldCom (WCOM) *   
-35.25      6.0      9.3        9.7CONGLOMERATESAT&T (T)  
+35.25      6.0      9.3        9.7
+
+CONGLOMERATES
+
+AT&T (T)  
 $64.75    -1.9%     -3.2%     -1.5%
 BCE (BCE) 
 34.50     -0.4       2.6       3.4
@@ -514,7 +689,11 @@ GTE (GTE)
 MCI Communications (MCIC)     
 26.13     -3.2      -4.6       0.2
 Sprint (FON)   
-39.63     -0.9      -2.5      13.2PAGINGAmerican Paging (APP)    
+39.63     -0.9      -2.5      13.2
+
+PAGING
+
+American Paging (APP)    
 $6.38     -3.8%     -12.1%    -17.7%
 Arch Communications Group (APGR)   
 24.00      5.5       -3.5      -8.6
@@ -530,7 +709,11 @@ ProNet (PNET)
 29.50      4.0       -2.9       1.3
 Teletouch Communications (TELL)          
 3.50       7.7        9.8       0.0
-     CELLULAR/SMR OPERATORSAirTouch Communications (ATI) 
+     
+
+CELLULAR/SMR OPERATORS
+
+AirTouch Communications (ATI) 
 $28.13     1.8%     -0.4%     -8.2%
 Cellular Communications (COMMA)    
 49.75      3.1       3.1      -8.7
@@ -565,7 +748,11 @@ Rogers Cantel Mobile Comms (RCMIF) *
 United States Cellular (USM)  
 33.75     0.4       -3.6      -7.5
 Vanguard Cellular Systems (VCELA)  
-20.25     -4.7      -9.0      -21.0AMERICAN DEP SHARES/RECEIPTSAlcatel Alsthom (ALA)    
+20.25     -4.7      -9.0      -21.0
+
+AMERICAN DEP SHARES/RECEIPTS
+
+Alcatel Alsthom (ALA)    
 $17.50    4.5%      2.1%      4.5%
 British Telecommunications (BTY)   
 56.50     3.7       -1.5      -9.8
@@ -590,7 +777,11 @@ Telefonos de Mexico (TMX)
 Telkom Indonesia (TLK)   
 25.25      1.0      21.0      ----
 Vodafone Group (VOD)     
-35.25      1.4      0.8       -14.0OEMs/SOFTWARE/OTHERA+ Network (ACOM)    
+35.25      1.4      0.8       -14.0
+
+OEMs/SOFTWARE/OTHER
+
+A+ Network (ACOM)    
 $11.75   -12.1%   -11.3%   -23.0
 Anadigics (ANAD)     
 21.25     14.9      9.0    -23.4
@@ -639,7 +830,12 @@ Tekelec (TKLC)
 Tessco Technologies (TESS) *  
 28.50      0.0      9.6      9.6
 Wireless Telecom Group (WTT)  
-16.00     -7.3      2.3    -14.1MOBILE SATELLITEAmerican Mobile Satellite (SKYC) *
+16.00     -7.3      2.3    -14.1
+
+
+MOBILE SATELLITE
+
+American Mobile Satellite (SKYC) *
 $30.63    15.6%    12.4%    27.9%
 Electromagnetic Sciences (ELMG)
 11.00      0.0      2.3     -4.3
@@ -651,9 +847,20 @@ Orbital Sciences (ORBI)
 Standard & Poor's 500 Index 615.93
 Dow Jones Industrial Average  5117.12
 Asterisk indicates stock at a six-month high.
-Source: Bloomberg Back to Headline ListCopyright
+Source: Bloomberg 
+
+
+
+
+Back to Headline List
+
+Copyright
 WIRELESS BUSINESS & FINANCE via NewsNet
-January 3, 1996MULTIPLE SPECTRUM AUCTIONS, AND MORE ON THE WAY     At the FCC's Dec. 15 open meeting, Chairman Reed Hundt hailed the
+January 3, 1996
+
+MULTIPLE SPECTRUM AUCTIONS, AND MORE ON THE WAY
+
+     At the FCC's Dec. 15 open meeting, Chairman Reed Hundt hailed the
 prospect of simultaneous spectrum auctions as a "tremendous
 accomplishment."  
      And with good reason.  While the specialized mobile radio (SMR)
@@ -684,4 +891,12 @@ television channels in the very and ultra high-frequency bands,
 doubling in many regions the number of frequencies available for
 remote patient monitoring.  Higher power levels also would be allowed
 for medical telemetry devices.
-(FCC, Tel.: 202/632-7000.)Back to Headline List
+(FCC, Tel.: 202/632-7000.)
+
+
+
+Back to Headline List
+
+
+
+

@@ -1,5 +1,14 @@
 
-Launchspace Course CatalogIntroduction to Space for Non-Technical Professionals KaplanDec 9-10Washington, DC
+Launchspace Course Catalog
+
+
+
+
+
+
+
+
+Introduction to Space for Non-Technical Professionals KaplanDec 9-10Washington, DC
 Electromagnetic Environment Effects (E3) Testing VioletteDec 11-13Washington, DC
 Fundamentals of Orbit Mechanics KaufmanDec 11-13Washington, DC
 Intellectual Property - Valuing and Licensing Jarosz & GoldscheiderDec 16-17Washington, DC
@@ -36,3 +45,8 @@ Supportability Engineering Functions in Launch Vehicle Systems SmiljanicMar 24-2
 Launch Control System DesignPoole, Copella, FisherMar 24-26Cocoa Beach, FL
 Satellite Attitude Control and Attitude Determination Systems  Mackison  Apr 2-4  Washington, DC
 Structural Dynamics Analysis and Design OjalvoApr 7-9  Washington, DC
+
+
+
+
+

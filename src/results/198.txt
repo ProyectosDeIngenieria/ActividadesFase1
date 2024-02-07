@@ -1,5 +1,7 @@
 SRL-1 - Galeras Volcano
-Galeras VolcanoThis radar image of the area surrounding the Galeras volcano in 
+Galeras Volcano
+
+This radar image of the area surrounding the Galeras volcano in 
 southern Colombia shows the ability of a multi-frequency radar to 
 map volcanic structures that can be dangerous to study on the 
 ground.  Galeras has erupted more than 20 times since the area 
@@ -26,5 +28,16 @@ received); blue represents the C-band (horizontally transmitted,
 vertically received).  Galeras is one of 15 volcanoes worldwide 
 that are being monitored by the scientific community as an 
 "International Decade Volcano" because of the hazard that it 
-represents to the local population.P-45441 March 30, 1995     Imaging Radar Home PageUpdated 03/30/95
+represents to the local population.
+
+P-45441 March 30, 1995
+
+
+
+
+
+     Imaging Radar Home Page
+
+
+Updated 03/30/95
 bruce.chapman@jpl.nasa.gov
