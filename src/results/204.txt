@@ -1,4 +1,18 @@
-SPORT SPORT IntroductionSPORT is a text-based offline software package which makes it possible to write ABB robot programs in the language Arla on an external personal computer and then download them to an S3 robot controller. It is fully compatible with Arla programmes created by Workspace and may be used as an alternative to using ABB software to download these text files to an S3 controller. The latest release of SPORT has the following capabilities:File compilation - Convert a robot program from ARLA to binary code.
+
+
+SPORT 
+
+
+SPORT 
+
+Introduction
+
+SPORT is a text-based offline software package which makes it possible to write ABB robot programs in the language Arla on an external personal computer and then download them to an S3 robot controller. It is fully compatible with Arla programmes created by Workspace and may be used as an alternative to using ABB software to download these text files to an S3 controller. 
+
+The latest release of SPORT has the following capabilities:
+
+
+File compilation - Convert a robot program from ARLA to binary code.
 Task compilation - Convert all robot programs in a task from ARLA to binary code.
 Diskette Functions -  Using diskette to transfer program between robot and PC.
 On Line Communication - Communication between robot and PC via serial link.
@@ -12,6 +26,36 @@ If a file excedes 64kb the specified word processor will be started automaticall
 As a complement to task a new feature with block files (extension .IRB) has been introduced which is compatible with olp irb files.
 This version of SPORT has debugging capabilities. This application shows the current running line in the task by highlighting it. 
 Prodebug.exe has DDE (Dynamic Data Exchange) to the to sailserv.exe, a module for robot control. 
-This version is shipped with the ADS aplication SAIL (Simulation AId for Link mechanisms). This is a general module for kinematic simulation in AutoCAD for Windows. Via DDE are the module SAILSERV and SAIL communicating and the model of the ABB2000 are automatically updated during the simulation.New Features in the latest releaseRelease 1.51 adds new features to the SPORT system.TCP calibration -  You are now able to measure the TCP and Basepoint of the robot and directlly update the
-TCP register of the controller.External axes are now supported both in the editor and in the communication part[ Return to Home Page ] Workspace and Robotrak are registered trademarks of Robot Simulations Ltd.Copyright &copy; 1996 Robot Simulations Ltd
+This version is shipped with the ADS aplication SAIL (Simulation AId for Link mechanisms). This is a general module for kinematic simulation in AutoCAD for Windows. Via DDE are the module SAILSERV and SAIL communicating and the model of the ABB2000 are automatically updated during the simulation.
+
+
+New Features in the latest release
+
+Release 1.51 adds new features to the SPORT system.
+
+
+TCP calibration -  You are now able to measure the TCP and Basepoint of the robot and directlly update the
+TCP register of the controller.
+
+External axes are now supported both in the editor and in the communication part
+
+
+
+
+[ Return to Home Page ] 
+
+
+
+
+Workspace and Robotrak are registered trademarks of Robot Simulations Ltd.
+
+Copyright &copy; 1996 Robot Simulations Ltd
 Last revision 3 April 1996
+
+
+
+
+
+
+
+

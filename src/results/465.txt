@@ -1,11 +1,25 @@
-Producci&oacute;n de Petr&oacute;leo&#160;    
+
+
+
+
+Producci&oacute;n de Petr&oacute;leo
+
+
+
+
+&#160;
+
+
+    
         
          
         
         Equipos de inyeccion de agua como
         este localizados en Mendoza, permiten mejorar la
         produccion y las reservas de petroleo.
-    La producci&oacute;n de
+    
+
+La producci&oacute;n de
 petr&oacute;leo de YPF se increment&oacute; un 8% en 1995, a 136
 millones de barriles. Se verific&oacute; as&iacute; el cuarto
 a&ntilde;o consecutivo de aumento de la producci&oacute;n. Este
@@ -38,7 +52,9 @@ varios yacimientos. Por ejemplo, en Chihuido de la Sierra Negra
 se est&aacute;n inyectando 200.000 barriles de agua por
 d&iacute;a, y aunque en 1995 se obtuvo una moderada respuesta de
 producci&oacute;n, la incorporaci&oacute;n de reservas asociadas
-a ese programa fue significativa.Otro factor clave que
+a ese programa fue significativa.
+
+Otro factor clave que
 contribuy&oacute; a los favorables resultados obtenidos en 1995
 fue el exitoso proyecto de perforaci&oacute;n horizontal que se
 llev&oacute; a cabo en el &aacute;rea Rinc&oacute;n de los
@@ -95,3 +111,6 @@ agua Brecha Verde, se filtra el agua que luego se reinyecta a los
 reservorios para incrementar la produccion de petroleo del area
 de Barrancas, Mendoza.
  
+
+
+

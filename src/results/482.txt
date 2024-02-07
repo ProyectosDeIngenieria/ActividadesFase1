@@ -1,5 +1,16 @@
-Directores y Funcionarios&#160;
-&#160;     
+
+
+
+
+Directores y Funcionarios
+
+
+
+
+&#160;
+&#160; 
+
+    
         
         Agustin Blanco**
         
@@ -10,7 +21,11 @@ Directores y Funcionarios&#160;
         Carlos Priani*
         
         Patricio C. Perkins
-        
+    
+
+
+
+    
         Daniel Cameron
         
         Mario L.Pi&ntilde;eiro
@@ -21,7 +36,11 @@ Directores y Funcionarios&#160;
         
         Bayless A.Manning
         
-         
+    
+
+ 
+
+    
         Italo Luder
         Miguel Madanes
         Vicepresidente Ejecutivo
@@ -30,7 +49,12 @@ Directores y Funcionarios&#160;
         Presidente
         James R. Lesch
         Ernst Schneider
-    Directorio
+    
+
+Directorio
 * Comisi&oacute;n Fiscalizadora
 ** Director Suplente
  
+
+
+

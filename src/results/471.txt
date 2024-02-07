@@ -1,4 +1,16 @@
-Operaciones&#160;     
+
+
+
+
+Operaciones
+
+
+
+
+&#160; 
+
+
+    
         Cedric
         D Bridger
         Vicepresidente de Finanzas y
@@ -27,7 +39,11 @@ Operaciones&#160;
         A. Rodriguez
         Vicepresidente de
         Ingenier&iacute;a y Tecnolog&iacute;a
-        
+    
+
+
+
+    
         
         Enrique
         Pourteau
@@ -48,15 +64,25 @@ Operaciones&#160;
         Madanes
         Vicepresidente
         Ejecutivo
-    No incluidos en la foto: 
+    
+
+No incluidos en la foto: 
 Norberto Noblia
 Viceresidente de Asuntos
 Legales
 Eduardo Petazze
-Vicepresidente    Operaciones Locales de
+Vicepresidente
+
+
+    Operaciones Locales de
     Exploraci&oacute;n y Producci&oacute;n 
     Operaciones Internacionales YPF/Maxus 
     Operaciones de
     Industrializaci&oacute;n y Comercializaci&oacute;n 
     Finanzas - Sintesis 
     Informaci&oacute;n Estad&iacute;stica
+
+
+
+
+

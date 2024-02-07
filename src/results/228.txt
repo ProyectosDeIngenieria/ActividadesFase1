@@ -1,5 +1,7 @@
 Interferometry - Fort Irwin, California
-Fort Irwin, CaliforniaThis image of Fort Irwin in California's Mojave Desert 
+Fort Irwin, California
+
+This image of Fort Irwin in California's Mojave Desert 
 compares interferometric radar signatures topography -- data 
 that were obtained by multiple imaging of the same region  
 to produce three-dimensional elevation maps -- as it was 
@@ -21,5 +23,16 @@ measurement accuracy.  Fort Irwin is an ideal site for such
 detailed digital elevation model comparisions because a 
 number of high precision digital models of the area already 
 exist from conventional measurements as well as from 
-airborne interferometric SAR data.P-44754 October 12, 1994     Imaging Radar Home PageUpdated 03/30/95
+airborne interferometric SAR data.
+
+P-44754 October 12, 1994
+
+
+
+
+
+     Imaging Radar Home Page
+
+
+Updated 03/30/95
 bruce.chapman@jpl.nasa.gov

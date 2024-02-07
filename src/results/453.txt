@@ -1,4 +1,17 @@
-Industrial Lubes 2INDUSTRIAL GEARS    
+
+
+
+
+Industrial Lubes 2
+
+
+
+
+
+
+INDUSTRIAL GEARS
+
+    
         Product
         Description 
     
@@ -26,9 +39,13 @@ Industrial Lubes 2INDUSTRIAL GEARS
         MACHINE
         Oil for plant and workshop machines,
         lathe spindles, and machine tools overall lubrication.
-    &#160;
+    
+
+&#160;
 BEARINGS
-AND CIRCULATING SYSTEMS (general use)    
+AND CIRCULATING SYSTEMS (general use)
+
+    
         Product
         Description 
     
@@ -48,8 +65,12 @@ AND CIRCULATING SYSTEMS (general use)
         MACHINE
         Oil for plant and workshop machines,
         lathe spindles, and machine tools overall lubrication.
-    &#160;
-HYDRAULIC SYSTEMS    
+    
+
+&#160;
+HYDRAULIC SYSTEMS
+
+    
         Product
         Description 
     
@@ -73,8 +94,12 @@ HYDRAULIC SYSTEMS
         features. They are used on hydraulic systems,
         hydrodynamic controls of machine tools, drop hammers,
         hoists, jacks, etc.
-    &#160;
-TURBINES    
+    
+
+&#160;
+TURBINES
+
+    
         Product
         Description 
     
@@ -90,9 +115,13 @@ TURBINES
         Oil showing similar characteristics to
         those in the TURBINA R series but with highest pressure
         additives.
-    &#160; 
+    
+
+&#160; 
 AIR
-COMPRESSORS AND VACUUM PUMPS    
+COMPRESSORS AND VACUUM PUMPS
+
+    
         Product
         Description 
     
@@ -117,9 +146,13 @@ COMPRESSORS AND VACUUM PUMPS
         specially developed for use on steam, gas, water
         (hydraulic) turbines, turbocompressors, as well as high-
         and average-speed low charge reducers.
-    &#160;
+    
+
+&#160;
 REFRIGERATING
-COMPRESSORS    
+COMPRESSORS
+
+    
         Product
         Description 
     
@@ -128,9 +161,13 @@ COMPRESSORS
         Particularly applicable to lubrication
         of refrigerating compressor cylinders, cooling equipment
         for commercial use.
-    &#160;
+    
+
+&#160;
 STATIONARY GAS
-ENGINES    
+ENGINES
+
+    
         Product
         Description 
     
@@ -141,8 +178,12 @@ ENGINES
         natural gas engines which are applicable to the operation
         of compressors for a wide range of fluids such as
         refinery gases, gases from gas pipelines, etc.
-    &#160;
-TEXTILE MACHINERY    
+    
+
+&#160;
+TEXTILE MACHINERY
+
+    
         Product
         Description 
     
@@ -158,9 +199,13 @@ TEXTILE MACHINERY
         fluid is pumped by use of pump or blade actuator type
         equipment or on equipment requiring oils with erosion
         inhibiting additives.
-    &#160; 
+    
+
+&#160; 
 STEAM MACHINE
-CYLINDERS    
+CYLINDERS
+
+    
         Product
         Description 
     
@@ -169,9 +214,13 @@ CYLINDERS
         High viscosity refined oils for use on
         steam machines. Compound grade oils are also used to
         lubricate endless and ring type reducing mechanisms.
-    &#160;
+    
+
+&#160;
 GRINDING
-MILL NECKS AND GEARS/EXPOSED MECHANISMS    
+MILL NECKS AND GEARS/EXPOSED MECHANISMS
+
+    
         Product
         Description 
     
@@ -195,8 +244,12 @@ MILL NECKS AND GEARS/EXPOSED MECHANISMS
         application, non-flammable solvent diluted grease. It is
         used to lubricate low-revolution open gears, cables,
         furnace chains requiring highly adhesive lubes.
-    &#160;
-ROCK DRILL    
+    
+
+&#160;
+ROCK DRILL
+
+    
         Product
         Description 
     
@@ -205,8 +258,12 @@ ROCK DRILL
         Oils used on Atlas Copco traction
         engines, tools, and line oil cups. They are also used on
         Ingersoll Rand air compressor cylinders and air hammers.
-    &#160; 
-MACHINE TOOLS GUIDES    
+    
+
+&#160; 
+MACHINE TOOLS GUIDES
+
+    
         Product
         Description 
     
@@ -215,9 +272,13 @@ MACHINE TOOLS GUIDES
         Oils used on Atlas Copco traction
         engines, tools, and line oil cups. They are also used on
         Ingersoll Rand air compressor cylinders and air hammers.
-    &#160;
+    
+
+&#160;
 INSULANTS FOR POWER
-USE    
+USE
+
+    
         Product
         Description 
     
@@ -226,8 +287,12 @@ USE
         Insulating oil for transformers,
         switches, outlet boxes, and for any electrified system in
         an oil bath.
-    &#160;
-METAL MACHINING    
+    
+
+&#160;
+METAL MACHINING
+
+    
         Product
         Description 
     
@@ -237,8 +302,12 @@ METAL MACHINING
         water are produced in order to provide highest tool
         cooling and care. These oils are formulated with the
         addition of an emulsifier to disperse oil in water.
-    &#160;
-THERMAL TREATMENTS    
+    
+
+&#160;
+THERMAL TREATMENTS
+
+    
         Product
         Description 
     
@@ -247,8 +316,12 @@ THERMAL TREATMENTS
         It provides high cooling rate for hard
         tempering.Proporciona una alta velocidad de enfriamiento
         con el objeto de lograr temples duros.
-    &#160;
-HEAT TRANSFER    
+    
+
+&#160;
+HEAT TRANSFER
+
+    
         Product
         Description 
     
@@ -263,8 +336,12 @@ HEAT TRANSFER
         TURBINE EP
         They are used mainly on Solar Saturn
         type gas turbines and on machine tools hydraulic systems.
-    &#160;
-CORROSION INHIBITORS    
+    
+
+&#160;
+CORROSION INHIBITORS
+
+    
         Product
         Description 
     
@@ -273,9 +350,13 @@ CORROSION INHIBITORS
         This product line is recommended for
         temporary protection of iron or steel and other metal
         parts in order to inhibit rust and corrosion.
-    &#160;
+    
+
+&#160;
 MARINE:
-For application to marine engines    
+For application to marine engines
+
+    
         Product
         Description 
     
@@ -316,9 +397,19 @@ For application to marine engines
         average effective pressure engines operating on fuels the
         combustion of which results in damaging compounds which
         should be neutralized by using specially featured lubes.
-        
+    
+
+
+
+    
         Return
         to Industrial Lubes
         
-        
     
+
+
+    
+    
+
+
+

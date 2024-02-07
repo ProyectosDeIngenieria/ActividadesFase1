@@ -1,4 +1,9 @@
-Campus Interactive MapCampus Building IndexA
+Campus Interactive Map
+
+
+Campus Building Index
+
+A
 Accounting, Dept. of                                   C4
 Administration                                         D5
 Administration Annex (Gamma)                           E7
@@ -247,10 +252,16 @@ Wildcat, Arizona Daily                                 D5
 Water Resources Research Center 350N. Campbell Avenue
 Y
 Yavapai Hall                                           C6
-Yuma Hall                                              C5Visitor Center
+Yuma Hall                                              C5
+
+
+Visitor Center
 Direction:
 Take I10 south (from Phoenix) to the East Speedway Blvd. exit.  Proceed
 and turn right onto North Cherry Ave.   Visitor Center is on the North side
 of Cherry Ave. and University Blvd.
 Hours: M-F 8am-5pm
 Phone: (520) 621-5130
+
+
+

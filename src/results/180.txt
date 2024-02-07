@@ -1,5 +1,11 @@
+
+
   
-  Foreign Currencies Money Draft  
+  Foreign Currencies Money Draft
+
+
+
+  
     
       
     
@@ -8,7 +14,10 @@
 	&nbsp;Foreign Currency Draft
       
     
-    
+  
+
+
+  
     
       
 	You can transfer funds from
@@ -50,3 +59,5 @@
   
   Copyright &copy; Surrey Metro Savings September
   4,&nbsp;1996
+
+

@@ -1,11 +1,32 @@
+
+
+
    Virtual library of standard robots
-   Virtual library of standard robotsWorkspace is supplied with the following robot models: ABB IRB2000,
+   
+
+
+
+Virtual library of standard robots
+
+Workspace is supplied with the following robot models: ABB IRB2000,
 ABB IRB6000, Fanuc S12, S420FD, S500, Motomoan K10S, Kawasaki JS6, Nachi
 NR8608, Comau 6.125, Kuka 161/15,Kuka 161/60, Unimation RX90, Pana HR50,
-Puma 260, Puma 560.The following is a list of all the robot models which are available
-for use within Workspace.VRML files of these models can be downloaded by clicking on a
-particular robot's name.If your browser does not recognise the file type then upgrade
-your browser to recognise VRML.ABB
+Puma 260, Puma 560.
+
+The following is a list of all the robot models which are available
+for use within Workspace.
+
+VRML files of these models can be downloaded by clicking on a
+particular robot's name.
+
+If your browser does not recognise the file type then upgrade
+your browser to recognise VRML.
+
+
+
+
+
+ABB
 IRB 1000
 ABB
 IRB 1400
@@ -349,7 +370,24 @@ RS154
 UNIMATION
 RS84
 YAMAHA
-ZETA-1[
-Return to Home Page ]Workspace and Robotrak
-are registered trademarks of Robot Simulations Ltd.Copyright &copy; 1996 Robot Simulations
-LtdLast revision 3 April 1996
+ZETA-1
+
+
+
+
+
+[
+Return to Home Page ]
+
+
+
+Workspace and Robotrak
+are registered trademarks of Robot Simulations Ltd.
+
+Copyright &copy; 1996 Robot Simulations
+Ltd
+
+Last revision 3 April 1996
+
+
+

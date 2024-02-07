@@ -1,14 +1,27 @@
-Notas a los Estados Contables (3)&#160;
+
+
+
+
+Notas a los Estados Contables (3)
+
+
+
+
+&#160;
 NOTAS A LOS ESTADOS CONTABLES 
 POR LOS EJERCICIOS FINALIZADOS EL 31 DE DICIEMBRE DE 1995, 1994 Y
 1993
-(continuaci&oacute;n)    
+(continuaci&oacute;n)
+
+    
         
          
         
         P&aacute;gina
         Anterior
-    4
+    
+
+4
 Activos de Disponibilidad Restringida y Garantias Otorgadas
 Al 31 de diciembre de 1995, en garant&iacute;a
 del cumplimiento de contratos, la Sociedad entreg&oacute;
@@ -79,7 +92,10 @@ ha habido cambios en la cantidad de acciones desde la
 privatizaci&oacute;n de la Sociedad.
 Las acciones de la Sociedad, previo a la oferta
 p&uacute;blica inicial, fueron convertidas en cuatro clases, como
-se detalla a continuaci&oacute;n:    
+se detalla a continuaci&oacute;n:
+
+
+    
         Clase A:
         Acciones pertenecientes al Estado Nacional. En abril
         de 1995, a trav&eacute;s de la Ley N&#176; 24.474, se ha
@@ -107,7 +123,10 @@ se detalla a continuaci&oacute;n:
     
         Clase D: 
         Acciones vendidas al capital privado. 
-    Mientras existan acciones Clase A, se
+    
+
+
+Mientras existan acciones Clase A, se
 requerir&aacute; ineludiblemente su voto afirmativo para: 1)
 fusiones, 2) adquisici&oacute;n de m&aacute;s del 50% de las
 acciones de la Sociedad en caso de copamiento accionario
@@ -117,7 +136,10 @@ voluntaria de la Sociedad. En los casos 3) y 4) se
 requerir&aacute;, adem&aacute;s, la previa aprobaci&oacute;n del
 Congreso de la Naci&oacute;n.
 La estructura del capital al 31 de diciembre de
-1995, es la siguiente:    
+1995, es la siguiente:
+
+
+    
         Acciones Clase A
         71,602,787
     
@@ -136,12 +158,18 @@ La estructura del capital al 31 de diciembre de
     
         
         353,000,000
-    7
+    
+
+
+7
 Sucursales en el Exterior y Participaci&oacute;n en Uniones
 Transitorias de Empresas y Consorcios
 Al 31 de diciembre de 1995, la Sociedad integraba
 los siguientes consorcios de exploraci&oacute;n y
-explotaci&oacute;n:&#160;    
+explotaci&oacute;n:&#160;
+
+
+    
         Nombre y
         ubicaci&oacute;n
         Participaci&oacute;n
@@ -272,7 +300,10 @@ explotaci&oacute;n:&#160;
         30/09/95 
         2016
         Exploraci&oacute;n and producci&oacute;n
-    (1) Al finalizar la etapa de
+    
+
+
+(1) Al finalizar la etapa de
 exploraci&oacute;n, y luego de que se hayan reembolsado ciertos
 gastos a realizar por YPF (fuera de sus obligaciones
 m&iacute;nimas), el operador ser&aacute; Bridas S.A.P.I.C.
@@ -325,7 +356,9 @@ ascend&iacute;a a 16, 15 y 21 al 31 de diciembre de 1995, 1994 y
 Los activos, pasivos y los costos de
 producci&oacute;n conjuntos de las UTEs, los consorcios y
 sucursales que se incluyen en cada rubro de los estados contables
-son los siguientes:    
+son los siguientes:
+
+    
         
         1995
         1994
@@ -372,11 +405,15 @@ son los siguientes:
         129
         78
         72
-    8
+    
+
+8
 Operaciones y Saldos con Sociedades Art. 33 - Ley N&#186; 19.550
 Los saldos pendientes al 31 de diciembre de 1995,
 1994 y 1993 por operaciones con Sociedades Art. 33 - Ley N&#176;
-19.550 son los siguientes:    
+19.550 son los siguientes:
+
+    
         
         Cr&eacute;ditos
         por ventas &#151; Corriente
@@ -442,7 +479,11 @@ Los saldos pendientes al 31 de diciembre de 1995,
         13
         9
         5
-        
+    
+
+
+
+    
         
         Otros creditos
     
@@ -574,7 +615,11 @@ Los saldos pendientes al 31 de diciembre de 1995,
         4
         5
         -
-        
+    
+
+
+
+    
         Cuentas por pagar - corrientes
         1995
         1994
@@ -653,7 +698,11 @@ Los saldos pendientes al 31 de diciembre de 1995,
         21
         28
         24
-        
+    
+
+
+
+    
         Prestamos - Corrientes
         1995
         1994
@@ -667,12 +716,16 @@ Los saldos pendientes al 31 de diciembre de 1995,
         3
         -
         -
-    La Sociedad efect&uacute;a compras y ventas a
+    
+
+La Sociedad efect&uacute;a compras y ventas a
 sociedades controladas y vinculadas. Los precios de estas
 transacciones se aproximan a los correspondientes a transacciones
 con terceros. Las principales operaciones con estas sociedades
 por los ejercicios finalizados el 31 de diciembre de 1995, 1994 y
-1993, son las siguientes:    
+1993, son las siguientes:
+
+    
         
         1995
         1994
@@ -877,7 +930,9 @@ por los ejercicios finalizados el 31 de diciembre de 1995, 1994 y
         197
         249
         198
-    (1) Se exponen las operaciones desde el
+    
+
+(1) Se exponen las operaciones desde el
 momento en que estas sociedades comenzaron a ser vinculadas o
 controladas.
 (2) Se exponen las operaciones hasta el momento en que estas
@@ -926,10 +981,17 @@ al Plan Brady, la Sociedad no ser&aacute; formalmente liberada de
 esta obligaci&oacute;n por los acreedores; por ello, el
 cr&eacute;dito compromiso de aporte para asumir deuda financiera
 externa &#150; Ley N&#186; 23.526 se presenta en los estados
-contables regularizando el pasivo (Nota 3.g).    
+contables regularizando el pasivo (Nota 3.g).
+
+    
         
         P&aacute;gina
         Siguiente 
         
         
-    &#160; 
+    
+
+&#160; 
+
+
+

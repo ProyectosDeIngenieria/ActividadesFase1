@@ -53,7 +53,7 @@ def main():
     # Get files names
     files = sorted(os.listdir(html_path))
     # For each file create a new one without 
-    with open(f'al02883272.txt', 'w', encoding='utf-8') as f:
+    with open(f'al02870266.txt', 'w', encoding='utf-8') as f:
         total_time = 0
         for file in files:
             try:

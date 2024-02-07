@@ -1,5 +1,11 @@
+
+
   
-  Open, Varible-Rate MetroMortgage  
+  Open, Varible-Rate MetroMortgage
+
+
+
+  
     
       
     
@@ -8,7 +14,10 @@
 	&nbsp;Open, Variable-Rate MetroMortgage
       
     
-    
+  
+
+
+  
     
       
 	In the Open, Variable-Rate
@@ -54,3 +63,5 @@
   
   Copyright &copy; Surrey Metro Savings September 4, 1996
   
+
+

@@ -1,13 +1,43 @@
-    CDT | Text of SAFE Crypto BillText of H.R. 695, the &quot;SAFE&quot; BillA BILL
+
+
+    CDT | Text of SAFE Crypto Bill
+
+
+
+
+
+
+
+
+Text of H.R. 695, the &quot;SAFE&quot; Bill
+
+A BILL
 To amend title 18, United States Code, to affirm the rights of Americans
-to use and sell encryption, and to relax export controls on encryption.Be it enacted by the Senate and House of Representatives of the United
-States of America in Congress assembled,SECTION 1. SHORT TITLE.This Act may be cited as the &quot;Security and Freedom Through Encryption
-(SAFE) Act&quot;. SEC. 2. SALE AND USE OF ENCRYPTION.(a) IN GENERAL. Part I of title 18, United States Code, is amended by inserting
-after chapter 121 the following new chapter: CHAPTER 122-ENCRYPTED WIRE AND ELECTRONIC COMMUNICATIONS&quot;2801. Definitions.
+to use and sell encryption, and to relax export controls on encryption.
+
+
+Be it enacted by the Senate and House of Representatives of the United
+States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+This Act may be cited as the &quot;Security and Freedom Through Encryption
+(SAFE) Act&quot;. 
+
+SEC. 2. SALE AND USE OF ENCRYPTION.
+
+(a) IN GENERAL. Part I of title 18, United States Code, is amended by inserting
+after chapter 121 the following new chapter: 
+
+CHAPTER 122-ENCRYPTED WIRE AND ELECTRONIC COMMUNICATIONS
+
+&quot;2801. Definitions.
 &quot;2802. Freedom To Use Encryption.
 &quot;2803. Freedom To Sell Encryption.
 &quot;2804. Prohibition on mandatory key escrow.
-&quot;2805. Unlawful use of encryption in furtherance of a criminal act.&quot;&#167;2801. Definitions
+&quot;2805. Unlawful use of encryption in furtherance of a criminal act.
+
+&quot;&#167;2801. Definitions
 &quot;As used in this chapter --
 &quot;(1) the terms 'person', 'State', 'wire communications, electronic
 communication', 'investigate or law enforcement officer', 'judge of competent
@@ -16,7 +46,9 @@ in section 2510 of this title;
 &quot;(2) the terms 'encrypt' and 'encryption' refer to the scrambling of
 wire or electronic information using mathematical formulas or algorithms
 in order to preserve the confidentiality, integrity, or authenticity of,
-and prevent unauthorized recipients from accessing or altering, such communications;&quot;(3) the term 'key' means the variable information used in a mathematical
+and prevent unauthorized recipients from accessing or altering, such communications;
+
+&quot;(3) the term 'key' means the variable information used in a mathematical
 formula, code, or algorithm, or any component thereof, used to decrypt wire
 or electronic communications that have been encrypted; and
 &quot;(4) the term 'United States person' means -
@@ -26,20 +58,37 @@ of Columbia, or any commonwealth, territory, or possession of the United
 States; and
 &quot;(C) any person organized under the laws of any foreign country who
 is owned or controlled by individuals or persons described in subparagraphs
-(A) and (B). &quot;&#167;2802. Freedom to use encryption&quot;Subject to Section 2805, it shall be lawful for any person within
+(A) and (B). 
+
+
+&quot;&#167;2802. Freedom to use encryption
+
+&quot;Subject to Section 2805, it shall be lawful for any person within
 any State, and for any United States citizen in a foreign country, to use
 any encryption, regardless of the encryption algorithm selected, encryption
-key length chosen, or implementation technique or medium used. &quot;&#167;2803. Freedom to sell encryption&quot;Subject to section 2805, it shall be lawful for any person within
+key length chosen, or implementation technique or medium used. 
+
+&quot;&#167;2803. Freedom to sell encryption
+
+&quot;Subject to section 2805, it shall be lawful for any person within
 any State to sell in interstate commerce any encryption, regardless of the
 encryption algorithm selected encryption key length chosen, or implementation
-technique or medium used.&quot;&#167;2804. Prohibition on mandatory key escrow&quot;(a) PROHIBITION. -- No person in lawful possession of a key to encrypted
+technique or medium used.
+
+&quot;&#167;2804. Prohibition on mandatory key escrow
+
+&quot;(a) PROHIBITION. -- No person in lawful possession of a key to encrypted
 information may be required by Federal or State law to relinquish to another
 person control of that key. 
 &quot;(b) EXCEPTION FOR ACCESS FOR LAW ENFORCEMENT PURPOSES.-Subsection
 (a) shall not affect the authority of any investigative or law enforcement
 officer, under any law in effect on the effective date of this chapter,
-to gain access to a key to encrypted information. &quot;&#167;2805. Unlawful use of encryption in furtherance of a
-criminal act&quot;Any person who willfully uses encryption in furtherance of the commission
+to gain access to a key to encrypted information. 
+
+&quot;&#167;2805. Unlawful use of encryption in furtherance of a
+criminal act
+
+&quot;Any person who willfully uses encryption in furtherance of the commission
 of a criminal offense for which the person may be prosecuted in a court
 of competent jurisdiction -- 
 &quot;(1) in the case of a first offense under this section,
@@ -52,7 +101,11 @@ forth in this title, or both.&quot;.
 United States Code, is amended by inserting after the item relating to chapter
 33 the following new item: 
 &quot;122. Encrypted wire and electronic communications
-.... 2801&quot;.SEC. 3. EXPORTS OF ENCRYPTION.(a) AMENDMENT TO EXPORT ADMINISTRATION ACT OF 1979. -- Section 17 of the
+.... 2801&quot;.
+
+SEC. 3. EXPORTS OF ENCRYPTION.
+
+(a) AMENDMENT TO EXPORT ADMINISTRATION ACT OF 1979. -- Section 17 of the
 Export Administration Act of 1979 (50 U.S.C. App. 2416) is amended by adding
 at the end thereof the following new subsection:
 &quot;(g) COMPUTERS AND RELATED EQUIPMENT. --
@@ -73,7 +126,9 @@ for installation by the purchaser; or
 &quot;(ii) that is in the public domain for which copyright or other protection
 is not available under title 17, United States Code, or that is available
 to the public because it is generally accessible to the interested public
-in any form; or &quot;(B) any computing device solely because it incorporates or employs
+in any form; or 
+
+&quot;(B) any computing device solely because it incorporates or employs
 in any form software (including software with encryption capabilities) exempted
 from any - requirement for a validated license under subparagraph (A).
 &quot;(3) SOFTWARE WITH ENCRYPTION CAPABILITIES. -- The Secretary shall
@@ -125,7 +180,19 @@ without further substantial support by the supplier;
 one or more microprocessor based central processing units that can accept,
 store, process or provide output of data; and 
 &quot;(E) the term 'computer hardware', when used in conjunction with information
-security, includes, but is not limited to, computer systems, equipment,application-specific assemblies, modules, and integrated circuits&quot;.(b) CONTINUATION OF EXPORT ADMINISTRATION ACT.-For purposes of carrying
+security, includes, but is not limited to, computer systems, equipment,
+
+application-specific assemblies, modules, and integrated circuits&quot;.
+
+(b) CONTINUATION OF EXPORT ADMINISTRATION ACT.-For purposes of carrying
 out the amendment made by subsection (a), the Export Administration Act
-of 1979 shall be deemed to be in effect.Back to SAFE Page - 105th Congress (1997)CDT Cryptography Page.
+of 1979 shall be deemed to be in effect.
+
+
+
+Back to SAFE Page - 105th Congress (1997)
+
+CDT Cryptography Page.
 CDT Home Page. 
+
+
