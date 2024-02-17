@@ -21,23 +21,6 @@ def get_html_file_text(file_path: str) -> str:
     return text_content
 
 
-def order_words(file_path: str) -> list:
-    """Orders the words alphabetically from the text content of an html file
-    Args:
-        file_path (str): Path to the html file.
-    Raises:
-        Exception: The path does not lead to an html file.
-    Returns:
-        list: List of words ordered alphabetically.
-    """
-    text_content = get_html_file_text(file_path)
-    # Split the content into words
-    words = text_content.split()
-    # Order the words alphabetically
-    words.sort()
-    return words
-
-
 def main():
     process_start_time = time.time()
     # Generate folder path
@@ -50,20 +33,25 @@ def main():
         os.makedirs(alphabetically)
     # Get files names
     files = sorted(os.listdir(html_path))
-    # For each file create a new one with the words ordered alphabetically
-    combined_words = []
+    # Initialize list to store combined text
+    combined_text = []
     total_time = 0
+    # Read content of all HTML files
     for file in files:
         try:
             # Calculate time to process file
             start_time = time.time()
-            words_file = order_words(os.path.join(html_path, file))
-            combined_words.extend(words_file)
+            text_content = get_html_file_text(os.path.join(html_path, file))
+            combined_text.append(text_content)
         except Exception as e:
             print(f"Error processing {file}: {e}")
         end_time = time.time()
         execution_time = end_time - start_time
         total_time += execution_time
+
+    # Combine all text and sort alphabetically
+    combined_text = '\n'.join(combined_text)
+    combined_words = sorted(re.findall(r'\b[a-zA-Z]+\b', combined_text.lower()))
 
     # Write combined words to a single file
     combined_file_path = os.path.join(alphabetically, 'combined.txt')
