@@ -1,7 +1,7 @@
 import os
 import re
 import time
-
+import sys
 
 def get_html_file_text(file_path: str) -> str:
     """Gets the content of an html file without the tags
@@ -37,8 +37,16 @@ def order_words(file_path: str) -> list:
     words.sort()
     return words
 
+def validate_paths(input_directory: str, output_directory: str):
+    if not os.path.exists(input_directory):
+        raise Exception('La carpeta de entrada no existe')
+    if not os.path.exists(output_directory):
+        print('La carpeta de salida no existe, se creará una nueva')
+        os.makedirs(output_directory)   
 
-def main():
+def main(input_directory, output_directory):
+    validate_paths(input_directory, output_directory)
+    
     process_start_time = time.time()
     # Generate folder path
     main_path = os.getcwd()
@@ -80,4 +88,13 @@ def main():
 
 
 if __name__ == '__main__':
-    main()
+    arg_names = ['input_directory', 'output_directory']
+    args = dict(zip(arg_names, sys.argv[1:]))
+
+    if (len(args) != 2):
+        print("Se requieren dos argumentos: input_directory y output_directory.")
+        sys.exit(1)
+
+    input_directory = str(args['input_directory'])
+    output_directory = str(args['output_directory'])    
+    main(input_directory, output_directory)
