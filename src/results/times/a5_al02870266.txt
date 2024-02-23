@@ -1,5 +1,5 @@
 
 
-Total time to process all files: 0.60525321960449218750 seconds
+Total time to process all files: 0.55666589736938476562 seconds
 
-Total execution time: 0.62146186828613281250 seconds
+Total execution time: 0.57244896888732910156 seconds
