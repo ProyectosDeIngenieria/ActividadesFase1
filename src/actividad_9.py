@@ -13,9 +13,10 @@ def get_unique_words(folder_path: str, file_name: str) -> list[dict[str, any]]:
     # Read file content
     with open(os.path.join(folder_path, file_name), 'r', encoding='utf-8', errors='replace') as file:
         content = file.read()
-    separated_words = re.split('[\n|,| |.|:|;|(|)]', content) # Separate the words of the files
-    filtered_words = [word for word in separated_words if word.isalnum()] # Remove any word with special symbols
-    word_dictionary = add_words_to_dictionary({}, filtered_words) # Return every unique word
+
+    separated_words = re.findall(r'\b(?![a-zA-Z]*\d)\w+(?:-\w+)*\b', content) # Separate the words of the files
+
+    word_dictionary = add_words_to_dictionary({}, separated_words) # Return every unique word
     return [{ 'word': word, 'file': file_name, 'frec': word_dictionary[word] } for word in list(word_dictionary.keys())]
 
 def add_words_to_dictionary(dictionary: dict[str, int], words: str) -> dict[str, int]:
@@ -51,7 +52,7 @@ def filter_words(word_dict: dict[str, int], stop_list_path: str) -> dict[str, in
     # Filter words
     filtered_dict = {}
     for word, freq in word_dict.items():
-        if word not in stop_list and freq >= 2 and not (len(word) == 1 and word.isalpha()) and not (len(word) == 1 and word.isdigit()):
+        if word not in stop_list and freq >= 2 and not len(word) == 1:
             filtered_dict[word] = freq
     return filtered_dict
 
