@@ -13,17 +13,17 @@ def get_unique_words(folder_path: str, file_name: str) -> list[dict[str, any]]:
     # Read file content
     with open(os.path.join(folder_path, file_name), 'r', encoding='utf-8', errors='replace') as file:
         content = file.read()
-    separated_words = re.split('[\n|,| |.|:|;|(|)]', content) # Separate the words of the files
+    separated_words = re.split('\n', content) # Separate the words of the files
     filtered_words = [word for word in separated_words if word.isalnum()] # Remove any word with special symbols
     word_dictionary = add_words_to_dictionary({}, filtered_words) # Return every unique word
     # return word_dictionary
     return [{ 'word': word, 'file': file_name, 'frec': word_dictionary[word] } for word in list(word_dictionary.keys())]
 
-def add_words_to_dictionary(dictionary: dict[str, int], words: str) -> dict[str, int]:
+def add_words_to_dictionary(dictionary: dict[str, int], words: list[str]) -> dict[str, int]:
     """Add words to a dictionary, and set word count.
     Args:
         dictionary (dict[str, int]): The dictionary that will be modified.
-        words (str): The words that will be added to the count.
+        words (list[str]): The words that will be added to the count.
     Returns:
         dict[str, int]: The dictionary with the new word count.
     """
@@ -68,39 +68,43 @@ def main():
     # Get input files
     files = sorted(os.listdir(input_path))
     
-    doc_dictionary = {} # dictionary with the words and the num of documents they appear
     posting_records: list[dict[str, any]] = [] # list with the word in each file and the num of times they appear
     file_times_records: list[dict[str, any]] = [] # list with the time it took to process each file
     # Get the word count of each file in the doc
     for index, file in enumerate(files):
         print(f'Processing file {index + 1} of {len(files)} {get_loading_bar(index + 1, len(files), 20)}', end='\r', flush=True)
         file_start_time = time.time() # Start to take time
+        
         file_records = get_unique_words(input_path, file)
-        file_words = map(lambda x: x['word'], file_records)
-        doc_dictionary = add_words_to_dictionary(doc_dictionary, file_words)
+        
         posting_records.extend(file_records)
         file_end_time = time.time() # Finish to take time
         file_times_records.append({
             'file': file,
             'time': file_end_time - file_start_time
         })
-            
-    # Create token document records from dictionary
-    doc_records: list[dict[str, any]] = []
-    posting_sum = 0
-    for word in sorted(list(doc_dictionary.keys())):
-        doc_records.append({
-            'word': word,
-            '#doc': doc_dictionary[word],
-            'posting': posting_sum
-        })
-        posting_sum += doc_dictionary[word]
         
     # Sort alphabetically by the word
     posting_records = sorted(posting_records, key=lambda x: x['word']) 
     
+    # Create token document records from posting records
+    doc_records: list[dict[str, any]] = []
+    last_posting_word = ''
+    posting_num = 0
+    for posting_row in posting_records:
+        if posting_row['word'] != last_posting_word:
+            last_posting_word = posting_row['word']
+            doc_records.append({
+                'word': last_posting_word,
+                '#doc': 1,
+                'posting': posting_num
+            })
+        else:
+            doc_records[-1]['#doc'] += 1
+        posting_num += 1
+    
     process_end_time = time.time()
-    print('Finished process.')
+    print('\nFinished process.')
     # Write results in files
     with open(output_file_dictionary, 'w', encoding='utf-8', errors='replace') as file:
         for record in doc_records:
