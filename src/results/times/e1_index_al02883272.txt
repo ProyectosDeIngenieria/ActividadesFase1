@@ -1,5 +1,14 @@
-Doc#: 10	Time: 0.009747982025146484 sec
-Doc#: 20	Time: 0.014510154724121094 sec
-Doc#: 30	Time: 0.02484607696533203 sec
-Doc#: 40	Time: 0.030048847198486328 sec
-Doc#: 50	Time: 0.042646169662475586 sec
+Doc#: 10	Time: 0.016918182373046875 sec
+Doc words#: 10	 Before: 17238 After: 15681
+Doc#: 20	Time: 0.025398969650268555 sec
+Doc words#: 20	 Before: 24042 After: 22453
+Doc#: 30	Time: 0.04360175132751465 sec
+Doc words#: 30	 Before: 40728 After: 39498
+Doc#: 40	Time: 0.05274248123168945 sec
+Doc words#: 40	 Before: 47697 After: 46263
+Doc#: 50	Time: 0.07966256141662598 sec
+Doc words#: 50	 Before: 70282 After: 68254
+Doc#: 60	Time: 0.09151172637939453 sec
+Doc words#: 60	 Before: 73250 After: 71165
+Doc#: 70	Time: 0.09089946746826172 sec
+Doc words#: 70	 Before: 78722 After: 76632
