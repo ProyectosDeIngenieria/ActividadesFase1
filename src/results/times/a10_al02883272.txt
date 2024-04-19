@@ -1,1 +1,1 @@
-Tiempo total de ejecución del programa: 3.033196210861206 segundos
+Tiempo total de ejecución del programa: 2.1199183464050293 segundos
