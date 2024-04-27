@@ -65,46 +65,59 @@ def search_word(word: str, dictionary_file: str, posting_file: str, documents_fi
     # Convert the word to lowercase to match the dictionary
     word = word.lower()
 
+    # Flag to check if word is found in dictionary
+    found_in_dictionary = False
+
     # Search in the dictionary
     with open(dictionary_file, 'r') as file:
         for line in file:
             parts = line.strip().split(';')
             if len(parts) >= 2 and word == parts[0].lower():
+                found_in_dictionary = True
                 print("Word found in dictionary.")
                 break
-        else:
-            print("Word not found in dictionary.")
-            return
+
+    # If word is not found in dictionary, return
+    if not found_in_dictionary:
+        print("Word not found in dictionary.")
 
     # Search in the posting file
+    found_in_posting = False
     with open(posting_file, 'r') as file:
-        found_in_posting = False
         for line in file:
             if word in line.lower():
-                print("Word found in posting.")
                 found_in_posting = True
+                print("Word found in posting.")
                 break
-        if not found_in_posting:
-            print("Word not found in posting.")
-            return
+
+    if not found_in_posting:
+        print("Word not found in posting.")
 
     # Search in the documents file
+    found_in_documents = []
     with open(documents_file, 'r') as file:
-        found_in_documents = []
         for line in file:
             parts = line.strip().split('\t')
             if len(parts) == 2 and parts[1].lower().endswith('.html'):
                 document_id = parts[0]
-                document_name = parts[1]
-                with open(document_name, 'r') as doc_file:
-                    if word in doc_file.read().lower():
+                document_name = os.path.join(os.path.dirname(documents_file), 'html', parts[1])
+                with open(document_name, 'rb') as doc_file:  # Open in binary mode
+                    try:
+                        content = doc_file.read().decode('utf-8')  # Try decoding with UTF-8
+                    except UnicodeDecodeError:
+                        # print(f"Error decoding file: {document_name}")
+                        continue
+                    if word in content.lower():
                         found_in_documents.append(document_name)
-        if found_in_documents:
-            print("Word found in the following documents:")
-            for document in found_in_documents:
-                print(document)
-        else:
-            print("Word not found in any documents.")
+    if found_in_documents:
+        print("Word found in the following documents:")
+        for document in found_in_documents:
+            print(document)
+    else:
+        print("Word not found in any documents.")
+
+
+
 
 def main():
     # Take time of the process
@@ -127,9 +140,9 @@ def main():
             if len(parts) == 2:
                 document_ids[parts[1]] = parts[0]
     
-    # Create posting file
-    create_posting_file(files_path, posting_txt_file, document_ids)
-    print('Posting file created:', posting_txt_file)
+    # # Create posting file
+    # create_posting_file(files_path, posting_txt_file, document_ids)
+    # print('Posting file created:', posting_txt_file)
     
     # Get posting contents
     with open(posting_file, 'r', encoding='utf-8', errors='replace') as file:
@@ -149,13 +162,12 @@ def main():
             })
     
     process_end_time = time.time()
-    print('Finished process.')
     
     # Write time result
     with open(output_file_times, 'w', encoding='utf-8', errors='replace') as file:
         file.write(f"Tiempo total de ejecución del programa: {process_end_time - process_start_time} segundos")
     
-    print('Document index file created:', document_index_file)
+    # print('Document index file created:', document_index_file)
     
     # Check if a word is provided as a command-line argument
     if len(sys.argv) > 1:
