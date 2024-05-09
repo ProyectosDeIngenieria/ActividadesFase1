@@ -5,7 +5,6 @@ import re
 from HashTable import hashtable
 
 # Just for testing
-index_word_summary = defaultdict(lambda: { 'before': 0, 'after': 0 })
 tokenize_word_summary = defaultdict(lambda: { 'before': 0, 'after': 0 })
 
 def get_unique_words(file_path: str, default_hashtable: hashtable[str, int] = hashtable[str, int](379)) -> list[dict[str, any]]:
@@ -20,18 +19,11 @@ def get_unique_words(file_path: str, default_hashtable: hashtable[str, int] = ha
     with open(file_path, 'r', encoding='utf-8', errors='replace') as file:
         content = file.read()
     
-    file_name = file_path.split('/')[-1]
-    separated_words = re.split('\n', content) # Separate the words of the files
-    filtered_words = re.findall(r'\b(?![a-zA-Z]*\d)\w+(?:-\w+)*\b', content) # Separate the words of the files
-
-    file_number = int(re.match(r'\d+', file_name)[0]);
-
-    index_word_summary[file_number] = { 'before': 0, 'after': 0 }
-    index_word_summary[file_number]['before'] += len(separated_words)
-    index_word_summary[file_number]['after'] += len(filtered_words)
+    separated_words = [word.lower() for word in re.split('\n', content)] # Separate the words of the files and make them lowercase
+    filtered_words = [word for word in separated_words if word.isalnum()] # Separate the words of the files
 
     word_hash_table = add_words_to_hash_table(default_hashtable, filtered_words) # Return every unique word
-    return [{ 'word': word, 'file': file_name, 'frec': word_hash_table.get(word) } for word in word_hash_table.keys()]
+    return [{ 'word': word, 'file': file_path.split('/')[-1], 'frec': word_hash_table.get(word) } for word in word_hash_table.keys()]
 
 def get_unique_words_hash_table(file_path: str, default_hashtable: hashtable[str, int] = hashtable[str, int](379)) -> hashtable[str, int]:
     """Get every unique word of a file.
@@ -124,10 +116,10 @@ def main():
     
     # Get paths
     main_path = os.getcwd()
-    input_folder = os.path.join(main_path, './results/alphabetically')
-    output_folder = os.path.join(main_path, './results/e1/')
-    output_file_token_times = os.path.join(main_path, './results/times/e1_token_al02883272.txt')
-    output_file_index_times = os.path.join(main_path, './results/times/e1_index_al02883272.txt')
+    input_folder = os.path.join(main_path, 'src/results/alphabetically')
+    output_folder = os.path.join(main_path, 'src/results/e1/')
+    output_file_token_times = os.path.join(main_path, 'src/results/times/e1_token_al02883272.txt')
+    output_file_index_times = os.path.join(main_path, 'src/results/times/e1_index_al02883272.txt')
     
     # Get input files
     files = sorted(os.listdir(input_folder))
@@ -163,10 +155,7 @@ def main():
         for number in range(1, doc_quant + 1):
             file_number = number + 1
             tokenize_word_changes[doc_quant]['before'] += tokenize_word_summary[file_number]['before']
-            tokenize_word_changes[doc_quant]['after'] += tokenize_word_summary[file_number]['after']            
-
-            index_word_changes[doc_quant]['before'] += index_word_summary[file_number]['before']
-            index_word_changes[doc_quant]['after'] += index_word_summary[file_number]['after']            
+            tokenize_word_changes[doc_quant]['after'] += tokenize_word_summary[file_number]['after']             
         
     # Store time results
     with open(output_file_token_times, 'w', encoding='utf-8', errors='replace') as file:
