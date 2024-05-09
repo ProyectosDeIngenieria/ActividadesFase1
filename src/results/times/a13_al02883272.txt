@@ -1,0 +1,12 @@
+Búsqueda: "Gauch"	-	Tiempo: 0.013350963592529297 segundos
+Búsqueda: "elephants"	-	Tiempo: 0.023627042770385742 segundos
+Búsqueda: "CSCE"	-	Tiempo: 0.01371002197265625 segundos
+Búsqueda: "Arkansas"	-	Tiempo: 0.013174057006835938 segundos
+Búsqueda: "gift"	-	Tiempo: 0.024593114852905273 segundos
+Búsqueda: "abcdef"	-	Tiempo: 0.015474081039428711 segundos
+Búsqueda: "20"	-	Tiempo: 0.026010990142822266 segundos
+Búsqueda: "20.07"	-	Tiempo: 0.014590978622436523 segundos
+Búsqueda: "123-456-7890"	-	Tiempo: 0.013367891311645508 segundos
+Búsqueda: "lawyer consumers"	-	Tiempo: 0.038828134536743164 segundos
+Búsqueda: "garden computer"	-	Tiempo: 0.029994964599609375 segundos
+Búsqueda: "United States laws"	-	Tiempo: 0.03608107566833496 segundos

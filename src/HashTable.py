@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 from typing import Generic, TypeVar
+import hashlib
 
 T = TypeVar("T")
 U = TypeVar("U")
@@ -15,23 +16,27 @@ class hashtable(Generic[T, U]):
         self.size = table_size
         
     def add(self, key: T, input: U):
-        hashKey = hash(key) % self.size
+        hash = hashlib.sha1(str(key).encode()).hexdigest()
+        hashKey = int(hash, 16) % self.size
         self.data[hashKey][key] = input
         
     def get(self, key: T) -> U:
-        hashKey = hash(key) % self.size
+        hash = hashlib.sha1(str(key).encode()).hexdigest()
+        hashKey = int(hash, 16) % self.size
         if not key in self.data[hashKey]:
             return None
         return self.data[hashKey][key]
     
     def remove(self, key: T) -> U:
-        hashKey = hash(key) % self.size
+        hash = hashlib.sha1(str(key).encode()).hexdigest()
+        hashKey = int(hash, 16) % self.size
         if not key in self.data[hashKey]:
             return None
         return self.data[hashKey].pop(key)
     
     def haskey(self, key: T) -> bool:
-        hashKey = hash(key) % self.size
+        hash = hashlib.sha1(str(key).encode()).hexdigest()
+        hashKey = int(hash, 16) % self.size
         return key in self.data[hashKey]
     
     def clone(self) -> hashtable[T, U]:
@@ -48,8 +53,9 @@ class hashtable(Generic[T, U]):
     def tostring(self) -> str:
         text = ""
         for index, dict in enumerate(self.data):
-            text += f"Index {index}\n"
+            text += f"Index{index}$%i"
             for key in list(dict.keys()):
-                text += f"\t{key}:\t{dict[key]}\n"
+                text += f"{key}$%g{dict[key]}$%c"
+            text += "\n"
         return text
         
